@@ -1,4 +1,4 @@
-// Program to print the Armstrong numbers between 0 to 2000.
+
 #include<stdio.h>
 int main(){
     int n,a[5];
