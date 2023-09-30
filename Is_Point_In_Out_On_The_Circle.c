@@ -16,9 +16,9 @@ int main(){
     printf("Enter the coordinates of your point: \n");
     scanf("%d%d",&x,&y);
     int length  = cPower(x-a,2)+cPower(y-b,2);
-    if(length==cPower(r,2))printf("Point is on the circumfrence of the circle.");
-    else if(length>r*r)printf("Point is outside of the circle.");
-    else if(length<r*r)printf("Point is inside of the circle.");
+    if(length==r)printf("Point is on the circumfrence of the circle.");
+    else if(length>r)printf("Point is outside of the circle.");
+    else if(length<r)printf("Point is inside of the circle.");
     printf("%d",length);
     return 0;
 }
