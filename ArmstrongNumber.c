@@ -1,6 +1,5 @@
-
 #include<stdio.h>
-int main(){
+void main(){
     int n,a[5];
     printf("Armstrong number between 0 to 100 are: ");
     for(n=1;n<2000;n++){
@@ -28,4 +27,34 @@ int main(){
         
     }
     return 0;
+}
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    printf("Armstrong numbers between 0 to 1999 are: ");
+    
+    for (int n = 0; n < 2000; n++) {
+        int num = n;
+        int nod = 0;
+        int sum = 0;
+        
+        // Count the number of digits (nod)
+        int temp = num;
+        while (temp > 0) {
+            temp /= 10;
+            nod++;
+        }
+        
+        temp = num;
+        while (temp > 0) {
+            int digit = temp % 10;
+            sum += pow(digit, nod);
+            temp /= 10;
+        }
+        
+        if (num == sum) {
+            printf("%d\n", num);
+        }
+    }
 }
