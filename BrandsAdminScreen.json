@@ -1,0 +1,180 @@
+{
+    "home": "fb495115-29e2-4d63-afaa-ed64e5816cf5",
+    "items": [
+        {
+            "id": "fb495115-29e2-4d63-afaa-ed64e5816cf5",
+            "type": 1,
+            "text": "Admin Settings (Home)"
+        },
+        {
+            "id": "573beef6-0dca-4768-84ec-0e29ba661654",
+            "type": 1,
+            "text": "Version Setting"
+        },
+        {
+            "id": "afd0de81-ffce-4737-bc70-47dbb18a34ea",
+            "type": 1,
+            "text": "Period Setting"
+        },
+        {
+            "id": "e3c693ef-1381-44e8-98a6-b796999edadd",
+            "type": 1,
+            "text": "Bank Charges."
+        },
+        {
+            "id": "fb78c96a-ee7c-4c1c-a9d4-b2fcee95ffbb",
+            "type": 1,
+            "text": "Capping %"
+        },
+        {
+            "id": "1392e9c7-0ee6-4725-8355-50ee6d4ddac6",
+            "type": 1,
+            "text": "Store- Geo"
+        },
+        {
+            "id": "0aeafe1c-af52-4fe5-8f86-03317be385e4",
+            "type": 1,
+            "text": "Articles"
+        },
+        {
+            "id": "3bbdc09f-ab95-425c-ac06-b980fb101a14",
+            "type": 1,
+            "text": "Store"
+        },
+        {
+            "id": "4840580d-feb6-463b-8e02-3917c42fea88",
+            "type": 1,
+            "text": "Setting &Assumptions"
+        },
+        {
+            "id": "863b0c93-4fd2-4e68-8503-ee2fe6ee363c",
+            "type": 1,
+            "text": "Holiday List"
+        },
+        {
+            "id": "94b1851d-7d11-4d6c-bb5e-74f994f3ca2e",
+            "type": 1,
+            "text": "Wage Price Upload"
+        },
+        {
+            "id": "16874312-05fa-4454-b900-1378c4fa8de1",
+            "type": 1,
+            "text": "Security Design"
+        },
+        {
+            "id": "398e4678-178c-4e98-bbf0-ca35bd056be3",
+            "type": 1,
+            "text": "Store area adjustments "
+        },
+        {
+            "id": "67fd8307-3851-469f-8244-a771724caf44",
+            "type": 1,
+            "text": "DOH (Admin Screen)"
+        },
+        {
+            "id": "0fbedbf3-cf65-48c5-933e-67aa47f5a33a",
+            "type": 1,
+            "text": "Cost Distribution"
+        },
+        {
+            "id": "08b8f882-15e8-4369-bc08-f8f2f461920c",
+            "type": 1,
+            "text": "test DOH (Admin Screen)"
+        },
+        {
+            "id": "f2f6b247-eb37-49de-b5c8-fa6cf4b21326",
+            "type": 1,
+            "text": "Design Principle Staff Cost"
+        },
+        {
+            "id": "b8dc7f45-b260-47d8-9c00-18edd500e03a",
+            "type": 1,
+            "text": "Input Interest%"
+        },
+        {
+            "id": "cff0eefd-21e8-45e8-b8c7-fa944016593b",
+            "type": 1,
+            "text": "GST Working (Admin Screen)"
+        },
+        {
+            "id": "4393a75d-0d8f-40bc-aeb3-79a8a12a5fb8",
+            "type": 1,
+            "text": "LRP (Admin Screen)"
+        },
+        {
+            "id": "a488dfa7-3fc4-47af-a416-60868ce2a63a",
+            "type": 1,
+            "text": "Test Cost Distribution"
+        },
+        {
+            "id": "c95cf947-88f3-4f64-a097-41887ab3a1ac",
+            "type": 1,
+            "text": "HKPC Design"
+        },
+        {
+            "id": "55baaee4-0c99-4fab-ab73-90fb051b449c",
+            "type": 1,
+            "text": "EDC Machine Charges"
+        },
+        {
+            "id": "d4dc2227-e11a-4ddd-a6fd-6931522299c7",
+            "type": 1,
+            "text": "No. of EDC Machine"
+        },
+        {
+            "id": "c74a4e55-078b-4d15-a8fd-e04cf2b243a1",
+            "type": 1,
+            "text": "De-hiring Setting"
+        },
+        {
+            "id": "7e27ad11-150f-4caf-bf91-a034bc4119d2",
+            "type": 1,
+            "text": "De-hiring Setting - Cost type Mapping"
+        },
+        {
+            "id": "1c7ce8d1-415b-4d0c-aa0a-92cfc4138c39",
+            "type": 1,
+            "text": "test PM"
+        },
+        {
+            "id": "b21fad15-8b00-49e8-b7bf-fd31b8b91804",
+            "type": 1,
+            "text": "De-hiring Setting - Assumptions"
+        },
+        {
+            "id": "cf7f097e-1acf-4569-89ce-a7ed8fd05983",
+            "type": 1,
+            "text": "LRP (Admin Screen) - 1"
+        },
+        {
+            "id": "df6e6517-cd81-4df4-a817-6f04fe3eb14f",
+            "type": 1,
+            "text": "LFL - Depreciation"
+        },
+        {
+            "id": "13de27dc-b6b6-4b7e-b38b-2328a0eac339",
+            "type": 1,
+            "text": "Plan GST "
+        },
+        {
+            "id": "8690bd86-4fd6-4c4b-9eae-5c24dbb32ce3",
+            "type": 1,
+            "text": "PNL Sorting"
+        },
+        {
+            "id": "e20a33f3-7308-4711-8cda-238cf6c6aa63",
+            "type": 1,
+            "text": "AOP Cycle Setting"
+        },
+        {
+            "id": "60795ef2-2854-4177-bbf4-fbf7ef85ebf6",
+            "type": 1,
+            "text": "Cohort & Format Mapping"
+        },
+        {
+            "id": "112497e4-39a8-4c99-8a49-dbd733254002",
+            "type": 1,
+            "text": "Cohort & Share Type Mapping"
+        }
+    ]
+}
