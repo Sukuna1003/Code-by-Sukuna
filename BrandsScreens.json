@@ -1,0 +1,3148 @@
+{
+    "home": "b2829c5a-ad8e-45e4-b9ad-85bcecc48c91",
+    "items": [
+        {
+            "id": "b2829c5a-ad8e-45e4-b9ad-85bcecc48c91",
+            "type": 1,
+            "text": "Home"
+        },
+        {
+            "id": "d69a52c5-5401-4d75-a1ac-c595eadb42e1",
+            "type": 1,
+            "text": "Home - BKP"
+        },
+        {
+            "id": "f5200fef-463f-4ca3-8329-29fd4d84ec10",
+            "text": "Admin Settings"
+        },
+        {
+            "id": "c81016b9-229e-47d3-9742-0d8b1462c4d1",
+            "type": 1,
+            "parent": "f5200fef-463f-4ca3-8329-29fd4d84ec10",
+            "text": "Version Setting"
+        },
+        {
+            "id": "eb2a7c17-c667-4672-ac05-294a4612422f",
+            "type": 1,
+            "parent": "f5200fef-463f-4ca3-8329-29fd4d84ec10",
+            "text": "Period Setting"
+        },
+        {
+            "id": "9f480c01-76e3-4b0e-8ac7-c566a0ebc8a9",
+            "type": 1,
+            "parent": "f5200fef-463f-4ca3-8329-29fd4d84ec10",
+            "text": "Copy Version"
+        },
+        {
+            "id": "80539d5b-ff67-45f1-8e91-e149b77711e2",
+            "type": 1,
+            "text": "Revenue Planning BKP"
+        },
+        {
+            "id": "f239d7df-9f38-433d-a4b3-4140d8d1c34d",
+            "text": "Revenue"
+        },
+        {
+            "id": "2d10aef7-846f-4306-bd32-d5523e63182d",
+            "parent": "f239d7df-9f38-433d-a4b3-4140d8d1c34d",
+            "text": "Calendarization"
+        },
+        {
+            "id": "ad3d4f26-9a39-4e80-8584-e27385160426",
+            "type": 1,
+            "parent": "2d10aef7-846f-4306-bd32-d5523e63182d",
+            "text": "Calendarization - Country"
+        },
+        {
+            "id": "13f6346e-74e5-457d-8966-655c1fbcad6d",
+            "type": 1,
+            "parent": "2d10aef7-846f-4306-bd32-d5523e63182d",
+            "text": "Calendarization - Channel"
+        },
+        {
+            "id": "2ef58060-366b-4378-895b-3f210609d9eb",
+            "type": 1,
+            "parent": "2d10aef7-846f-4306-bd32-d5523e63182d",
+            "text": "Calendarization - City"
+        },
+        {
+            "id": "e1817d55-9992-4210-ba0f-90599b67c8e5",
+            "type": 1,
+            "parent": "2d10aef7-846f-4306-bd32-d5523e63182d",
+            "text": "Exceptional - City"
+        },
+        {
+            "id": "ebe043f9-2bd0-43a3-b044-c3ea74457427",
+            "type": 1,
+            "parent": "2d10aef7-846f-4306-bd32-d5523e63182d",
+            "text": "Actual"
+        },
+        {
+            "id": "9014d78f-0d53-4c2b-861a-b7e99f0aed9d",
+            "type": 1,
+            "parent": "2d10aef7-846f-4306-bd32-d5523e63182d",
+            "text": "Normalization"
+        },
+        {
+            "id": "85a9a4b7-7dbd-44e1-a269-ce7b16bee022",
+            "type": 1,
+            "parent": "2d10aef7-846f-4306-bd32-d5523e63182d",
+            "text": "Revenue post Calendarization"
+        },
+        {
+            "id": "a311e81b-cdeb-43d1-9011-fc67e08aab6b",
+            "parent": "f239d7df-9f38-433d-a4b3-4140d8d1c34d",
+            "text": "Store Management"
+        },
+        {
+            "id": "edca9332-3998-46e2-8e90-bf337b33221d",
+            "type": 1,
+            "parent": "a311e81b-cdeb-43d1-9011-fc67e08aab6b",
+            "text": "Buddy Mapping (NSO)"
+        },
+        {
+            "id": "aa554350-f4d2-4410-be42-5efc192a5c5a",
+            "type": 1,
+            "parent": "a311e81b-cdeb-43d1-9011-fc67e08aab6b",
+            "text": "Buddy Mapping (LY NSO)"
+        },
+        {
+            "id": "5c2ece34-b974-4089-b5b1-8fbfb2267d28",
+            "type": 1,
+            "parent": "a311e81b-cdeb-43d1-9011-fc67e08aab6b",
+            "text": "Buddy Mapping (Existing)"
+        },
+        {
+            "id": "f147ca1b-6163-4e3a-bef4-ceffb82bfa48",
+            "type": 1,
+            "parent": "a311e81b-cdeb-43d1-9011-fc67e08aab6b",
+            "text": "Store Renovation"
+        },
+        {
+            "id": "ee6fd4ab-c7db-4c19-93e9-070a2289d9e0",
+            "type": 1,
+            "parent": "a311e81b-cdeb-43d1-9011-fc67e08aab6b",
+            "text": "Store Area Adjustment"
+        },
+        {
+            "id": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "parent": "f239d7df-9f38-433d-a4b3-4140d8d1c34d",
+            "text": "AOP Plan"
+        },
+        {
+            "id": "06b51c7f-af45-4258-9cfe-b785e802b320",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Global AOP Setting"
+        },
+        {
+            "id": "557192a1-27ee-4e8c-8641-dc7972db2949",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Target Growth"
+        },
+        {
+            "id": "89258f6e-ef79-4dd3-8a36-e5422aa8932a",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Plan (Store Level)"
+        },
+        {
+            "id": "fc80242e-9eee-4238-a7fd-f90da8d3a9c9",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Plan (Store Level) - Projected"
+        },
+        {
+            "id": "0d0bb2dd-15d3-482f-9bd8-c3aadee883fd",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Plan (Store Month)"
+        },
+        {
+            "id": "6c832176-1da7-4a60-989e-4ad5520d7aee",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Plan (Store Month) - Projected"
+        },
+        {
+            "id": "0c9b9344-6990-4ad9-b331-bfbf31679049",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Plan (Category mix)"
+        },
+        {
+            "id": "963f336f-411f-4b01-8942-44bb2686c7c1",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Plan (Category mix) - Projected"
+        },
+        {
+            "id": "933afa28-fff6-46db-bf31-41f2509672ef",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Gross Profit 1"
+        },
+        {
+            "id": "916d8f16-f567-4e6a-8b90-7db78087fcd5",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Gross Profit 2"
+        },
+        {
+            "id": "70c8bee4-5199-4beb-9ce5-e1ae7ff95954",
+            "type": 1,
+            "parent": "4a384b3b-96d6-4a81-a063-360a0aa34506",
+            "text": "Gross Sales"
+        },
+        {
+            "id": "c653be86-4191-4bc2-92cb-c8d242da76ff",
+            "type": 1,
+            "text": "AOP - Plan & Actual"
+        },
+        {
+            "id": "d0d64725-2065-4333-95a2-384ac5ba02a8",
+            "type": 1,
+            "text": "Plan Vs Actual P&L KPI"
+        },
+        {
+            "id": "e08ac27d-0ac1-4e29-b5e3-8fa0ce1ee5cf",
+            "type": 1,
+            "text": "Store-wise details"
+        },
+        {
+            "id": "96ea9066-ea4b-400a-8589-fd15fabf07fe",
+            "type": 1,
+            "text": "AOP Cycle"
+        },
+        {
+            "id": "f992a63f-66e6-430d-9b1a-29bd1a480d32",
+            "type": 1,
+            "text": "Test Shakti"
+        },
+        {
+            "id": "de482cc5-ff09-43f0-8526-e09a10dfac4a",
+            "type": 1,
+            "text": "Repair and Maintanence "
+        },
+        {
+            "id": "53c0f008-4606-4469-becf-ebd235dcb705",
+            "type": 1,
+            "text": "Repair and Maintenance 1"
+        },
+        {
+            "id": "bd4e1e41-39f5-4d23-8cb6-6f552fc66140",
+            "type": 1,
+            "text": "Repair and Maintenance 3"
+        },
+        {
+            "id": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "COST"
+        },
+        {
+            "id": "4bd09f44-9695-4777-956f-861e9310166c",
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "Rent"
+        },
+        {
+            "id": "31557adc-72ed-428b-bd06-f5a86a924a72",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "6.1.1 Settings"
+        },
+        {
+            "id": "42b2d09c-2d7d-4321-97af-6cdc835c8703",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "6.1.2 Actual Cost"
+        },
+        {
+            "id": "6bca40a6-f370-48e3-b5ef-984ef6120e2e",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "6.1.3. Projected"
+        },
+        {
+            "id": "5b96e95c-6bfc-4daa-92c0-1ba27e4094da",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "6.1.3 Planning Cost"
+        },
+        {
+            "id": "79278a44-995e-457b-be83-aa2033a4bd72",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "6.1.4 Adjustments"
+        },
+        {
+            "id": "0c54a243-6556-47c0-9189-9a60a98f3c1e",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "6.1.5 Final Cost"
+        },
+        {
+            "id": "fd39614f-5539-42a8-ad91-6bebb31a4e88",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "6.1.5 Final Cost test"
+        },
+        {
+            "id": "30e2a558-06c9-4457-a518-343408a89ce3",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "Cost Distribution"
+        },
+        {
+            "id": "cc4c2d6f-aaab-4eca-80eb-1ea846858e28",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": "Test - Cost Allocation"
+        },
+        {
+            "id": "42f27dfe-fbf1-48b0-9cf7-701e737e9fb3",
+            "type": 1,
+            "parent": "4bd09f44-9695-4777-956f-861e9310166c",
+            "text": " Test - Cost DIstribution"
+        },
+        {
+            "id": "53bcb613-f7a1-449c-962f-5df2be235161",
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "Utility"
+        },
+        {
+            "id": "6bf0ae95-db24-42df-ad0f-a73ffaf77d4c",
+            "type": 1,
+            "parent": "53bcb613-f7a1-449c-962f-5df2be235161",
+            "text": "6.2.2 Actual Cost"
+        },
+        {
+            "id": "68eaa786-5d0e-40bc-827b-faaa32ca6146",
+            "type": 1,
+            "parent": "53bcb613-f7a1-449c-962f-5df2be235161",
+            "text": "6.2.2 Previous Plan"
+        },
+        {
+            "id": "6fc82c71-ac7e-4a44-98d4-49946716eb94",
+            "type": 1,
+            "parent": "53bcb613-f7a1-449c-962f-5df2be235161",
+            "text": "6.2.2 Actual Cost(bck)"
+        },
+        {
+            "id": "efda13fe-77b7-4f5e-82d9-b1cf74942a2a",
+            "type": 1,
+            "parent": "53bcb613-f7a1-449c-962f-5df2be235161",
+            "text": "6.2.1 Settings"
+        },
+        {
+            "id": "8d95c916-6af4-4bf1-a167-613427884c9c",
+            "type": 1,
+            "parent": "53bcb613-f7a1-449c-962f-5df2be235161",
+            "text": "6.2.3 Projected Cost"
+        },
+        {
+            "id": "a3a6380c-5085-4766-8586-99454faab226",
+            "type": 1,
+            "parent": "53bcb613-f7a1-449c-962f-5df2be235161",
+            "text": "6.2.4 Planning Cost"
+        },
+        {
+            "id": "8fe31352-5847-4375-ba50-1c3370349556",
+            "type": 1,
+            "parent": "53bcb613-f7a1-449c-962f-5df2be235161",
+            "text": "6.2.5 Final Cost"
+        },
+        {
+            "id": "74daf931-5941-445e-a81c-3b259643fc7d",
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "6.3 Repair & Maintenance"
+        },
+        {
+            "id": "fc2ba4a1-e216-4ff7-aae1-c7c8806c2126",
+            "type": 1,
+            "parent": "74daf931-5941-445e-a81c-3b259643fc7d",
+            "text": "6.3.2 Actual Cost"
+        },
+        {
+            "id": "03200a4a-610c-4db5-833c-8c929562bdf5",
+            "type": 1,
+            "parent": "74daf931-5941-445e-a81c-3b259643fc7d",
+            "text": "6.3.1 Settings"
+        },
+        {
+            "id": "7b20ef4c-d4ea-4635-b524-24474ae52b52",
+            "type": 1,
+            "parent": "74daf931-5941-445e-a81c-3b259643fc7d",
+            "text": "6.3.3 Projected/Planning Cost"
+        },
+        {
+            "id": "111dad7c-6b1b-403b-b578-6d1a2d120a49",
+            "type": 1,
+            "parent": "74daf931-5941-445e-a81c-3b259643fc7d",
+            "text": "6.3.4 Test"
+        },
+        {
+            "id": "bb66774d-3be1-4241-b675-7a83112d68aa",
+            "type": 1,
+            "parent": "74daf931-5941-445e-a81c-3b259643fc7d",
+            "text": "6.3.4 Planning Cost"
+        },
+        {
+            "id": "463e7ad5-daf5-418e-9d52-9fc34cfe1105",
+            "type": 1,
+            "parent": "74daf931-5941-445e-a81c-3b259643fc7d",
+            "text": "6.3.4.1 ADJ Planning Cost"
+        },
+        {
+            "id": "25e66a50-950d-4369-96d9-7e4e3ee646ba",
+            "type": 1,
+            "parent": "74daf931-5941-445e-a81c-3b259643fc7d",
+            "text": "6.3.5 Final Cost"
+        },
+        {
+            "id": "48d6902e-6418-4ebc-972a-7624e83ea1a5",
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "6.4House keeping & Pest control"
+        },
+        {
+            "id": "a529c569-a70a-4faa-b8a9-18476fa0d664",
+            "type": 1,
+            "parent": "48d6902e-6418-4ebc-972a-7624e83ea1a5",
+            "text": "6.4.2 Actual Cost"
+        },
+        {
+            "id": "dcca6bce-a8d3-4846-a6e9-2f2db01ca2ae",
+            "type": 1,
+            "parent": "48d6902e-6418-4ebc-972a-7624e83ea1a5",
+            "text": "6.4.1 Settings"
+        },
+        {
+            "id": "ce62d6e9-d4c1-483e-9e46-ad18fe7caaf5",
+            "type": 1,
+            "parent": "48d6902e-6418-4ebc-972a-7624e83ea1a5",
+            "text": "6.4.3 Projected Cost"
+        },
+        {
+            "id": "f16bd1bf-204c-421e-b065-9ddb61d01368",
+            "type": 1,
+            "parent": "48d6902e-6418-4ebc-972a-7624e83ea1a5",
+            "text": "6.4.4 Planning Cost"
+        },
+        {
+            "id": "250cd385-8185-4eef-b913-4f1de727817d",
+            "type": 1,
+            "parent": "48d6902e-6418-4ebc-972a-7624e83ea1a5",
+            "text": "6.4.4.1 ADJ Planning Cost"
+        },
+        {
+            "id": "62bdc573-4b7e-4f28-9fe0-0afafe32fcbe",
+            "type": 1,
+            "parent": "48d6902e-6418-4ebc-972a-7624e83ea1a5",
+            "text": "6.4.5 Final Cost"
+        },
+        {
+            "id": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "6.5 Security"
+        },
+        {
+            "id": "679165f1-c27f-499e-851b-19221cffe4a6",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.1 Design Principal"
+        },
+        {
+            "id": "47feb8a2-377d-4728-99f2-6cdfa7ea1e36",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.1 Wage Rates"
+        },
+        {
+            "id": "0586a142-03ad-41af-a2ab-db14c9bf13cd",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.1 Settings"
+        },
+        {
+            "id": "e1ba2f3c-ea45-47c9-b2e6-af9b3818e362",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.2 Actual Cost"
+        },
+        {
+            "id": "ad8d8801-990a-40ec-9d28-0bebb13b4bf9",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.3 Projected Cost"
+        },
+        {
+            "id": "8ae33b06-24c6-4818-af5b-45bc0c0c8e2d",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.4 Planning Cost"
+        },
+        {
+            "id": "24472fd3-9824-499e-8a3d-dcb861f8fb0b",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.7 Jio Mart LPA"
+        },
+        {
+            "id": "4349c25d-8eda-42c7-95ad-6c5691b85703",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.6 Jio Mart Order Count"
+        },
+        {
+            "id": "8613bc8d-d73c-4aef-b584-bf16f2030030",
+            "type": 1,
+            "parent": "896eacd3-64ec-41f8-82f2-534e0fdadfbe",
+            "text": "6.5.5 Final Cost"
+        },
+        {
+            "id": "26114ad0-bae8-4e65-9a23-c94645ecb587",
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "6.6 Communication"
+        },
+        {
+            "id": "da631af4-0341-4cca-a575-9171a6559e0a",
+            "type": 1,
+            "parent": "26114ad0-bae8-4e65-9a23-c94645ecb587",
+            "text": "6.6.2 Actual Cost"
+        },
+        {
+            "id": "2321e756-3aee-4512-9aa7-abce02e5dd2f",
+            "type": 1,
+            "parent": "26114ad0-bae8-4e65-9a23-c94645ecb587",
+            "text": "6.6.1 Settings"
+        },
+        {
+            "id": "66c86341-4690-4db8-962f-a1f0e10d9f13",
+            "type": 1,
+            "parent": "26114ad0-bae8-4e65-9a23-c94645ecb587",
+            "text": "6.6.3 Projected Cost"
+        },
+        {
+            "id": "0613e946-b352-45af-a954-9548fa3c736e",
+            "type": 1,
+            "parent": "26114ad0-bae8-4e65-9a23-c94645ecb587",
+            "text": "6.6.4 Planning Cost - scenario 2"
+        },
+        {
+            "id": "2d9d7353-73a0-49fb-8f5a-dd67c5ceb2e4",
+            "type": 1,
+            "parent": "26114ad0-bae8-4e65-9a23-c94645ecb587",
+            "text": "6.6.4 Planning Cost - scenario 1"
+        },
+        {
+            "id": "ee78a1a5-c4c3-4714-965f-7ef80e48bcc9",
+            "type": 1,
+            "parent": "26114ad0-bae8-4e65-9a23-c94645ecb587",
+            "text": "6.6.5 Final Cost"
+        },
+        {
+            "id": "03e2ff9b-d964-4b2d-be9e-5363cec3e535",
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "6.7 Lic. fee, reg & Stamp Duty"
+        },
+        {
+            "id": "84f7474a-4162-4b3d-9442-72ca3af24b53",
+            "type": 1,
+            "parent": "03e2ff9b-d964-4b2d-be9e-5363cec3e535",
+            "text": "6.7.2 Actual Cost"
+        },
+        {
+            "id": "3d6822fb-00ad-424a-b6d2-c8138ee452d1",
+            "type": 1,
+            "parent": "03e2ff9b-d964-4b2d-be9e-5363cec3e535",
+            "text": "6.7.1 Settings"
+        },
+        {
+            "id": "7b022077-5196-46a1-bf40-201b3e29cb25",
+            "type": 1,
+            "parent": "03e2ff9b-d964-4b2d-be9e-5363cec3e535",
+            "text": "6.7.3 Projected Cost"
+        },
+        {
+            "id": "92ef71e0-7bbd-4b51-8725-53f245f97e86",
+            "type": 1,
+            "parent": "03e2ff9b-d964-4b2d-be9e-5363cec3e535",
+            "text": "6.7.4 Planning Cost"
+        },
+        {
+            "id": "eb8c85d3-51e4-4ad4-a6e7-9bdf73683ad5",
+            "type": 1,
+            "parent": "03e2ff9b-d964-4b2d-be9e-5363cec3e535",
+            "text": "6.7.4.1 ADJ Planning Cost"
+        },
+        {
+            "id": "969ebb7d-a3db-4f96-b995-ee5a19911e64",
+            "type": 1,
+            "parent": "03e2ff9b-d964-4b2d-be9e-5363cec3e535",
+            "text": "6.7.5 Final Cost"
+        },
+        {
+            "id": "5254e282-d296-438c-a80a-8e29461ff072",
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "6.8 Staff cost"
+        },
+        {
+            "id": "b1a1a8d5-960a-439c-938b-9af91512dcd6",
+            "type": 1,
+            "parent": "5254e282-d296-438c-a80a-8e29461ff072",
+            "text": "6.8 Design Principle"
+        },
+        {
+            "id": "427e04c2-62a0-4386-99be-1557fe178e70",
+            "type": 1,
+            "parent": "5254e282-d296-438c-a80a-8e29461ff072",
+            "text": "6.8.1 Staff Cost Actual"
+        },
+        {
+            "id": "d9d27402-3dba-4963-8f63-aa5d4bf35db1",
+            "type": 1,
+            "parent": "5254e282-d296-438c-a80a-8e29461ff072",
+            "text": "6.8.2 Staff Cost Projection"
+        },
+        {
+            "id": "6233c731-789d-4dcb-9ae7-fc5b8e87d272",
+            "type": 1,
+            "parent": "5254e282-d296-438c-a80a-8e29461ff072",
+            "text": "6.8.4 Staff Cost Plan - Assumptions"
+        },
+        {
+            "id": "512151ee-07e1-4e45-a352-64a60e82ab16",
+            "type": 1,
+            "parent": "5254e282-d296-438c-a80a-8e29461ff072",
+            "text": "6.8.5 Staff Cost Planned"
+        },
+        {
+            "id": "f4555f94-e3a0-4af2-b0ac-6273fec74e95",
+            "type": 1,
+            "parent": "5254e282-d296-438c-a80a-8e29461ff072",
+            "text": "6.8.5 SLP"
+        },
+        {
+            "id": "e32d3a35-1a9d-40e0-b701-f81f94cff125",
+            "type": 1,
+            "parent": "5254e282-d296-438c-a80a-8e29461ff072",
+            "text": "6.8.5 Staff Cost "
+        },
+        {
+            "id": "cfdfff3a-bcdc-4780-8072-8bf06d240d82",
+            "type": 1,
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "Test PK"
+        },
+        {
+            "id": "158a181f-8889-414a-bd19-a8517836ede1",
+            "type": 1,
+            "parent": "8949ff99-9d59-43e5-950e-ce0a715a7da6",
+            "text": "Planned Cost - Warehouse Cost - Fixed % Input"
+        },
+        {
+            "id": "632b44ce-bbc7-4b4e-8538-139754073734",
+            "type": 1,
+            "text": "Budding Management"
+        },
+        {
+            "id": "57ab8038-49ab-4f48-b7fa-0b848e6c0192",
+            "text": "Indirect Expense"
+        },
+        {
+            "id": "3a76bead-983b-4815-82ae-67a6ffcad40a",
+            "type": 1,
+            "parent": "57ab8038-49ab-4f48-b7fa-0b848e6c0192",
+            "text": "Indirect Expense"
+        },
+        {
+            "id": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "parent": "57ab8038-49ab-4f48-b7fa-0b848e6c0192",
+            "text": "ID - with category & with matrix"
+        },
+        {
+            "id": "73850179-033c-455d-92e1-ec361b9a9977",
+            "parent": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "text": "Dump Cost (Dry)"
+        },
+        {
+            "id": "d5fb860f-2f0f-4066-a063-050c120183b2",
+            "type": 1,
+            "parent": "73850179-033c-455d-92e1-ec361b9a9977",
+            "text": "ACT Cost  - Dump Cost (Dry)"
+        },
+        {
+            "id": "0b12a8ef-44e7-43fc-a3a1-4afff7a04d9e",
+            "type": 1,
+            "parent": "73850179-033c-455d-92e1-ec361b9a9977",
+            "text": "Settings/Assumptions - Dump Cost (Dry)"
+        },
+        {
+            "id": "f4b42157-a663-4e97-9a37-91790bf85875",
+            "type": 1,
+            "parent": "73850179-033c-455d-92e1-ec361b9a9977",
+            "text": "Projected Cost - Dump Cost (Dry)"
+        },
+        {
+            "id": "b1e6980d-a47f-44dd-ac46-c47be2bae32a",
+            "type": 1,
+            "parent": "73850179-033c-455d-92e1-ec361b9a9977",
+            "text": "ACT + Projection - Dump Cost (Dry)"
+        },
+        {
+            "id": "1fc594bb-0c82-41cd-8b42-1f8659919cdd",
+            "type": 1,
+            "parent": "73850179-033c-455d-92e1-ec361b9a9977",
+            "text": "Approved NSO stores - Dump Cost (Dry)"
+        },
+        {
+            "id": "7d3472c2-8e23-4151-8858-1242453becb7",
+            "type": 1,
+            "parent": "73850179-033c-455d-92e1-ec361b9a9977",
+            "text": "Planned Cost - Dump Cost (Dry)"
+        },
+        {
+            "id": "ce2dd610-f0d6-47b7-be31-843af5d3ee09",
+            "type": 1,
+            "parent": "73850179-033c-455d-92e1-ec361b9a9977",
+            "text": "Final Cost - Dump Cost (Dry)"
+        },
+        {
+            "id": "6ddfcdea-9612-4613-b9c0-b63f09986402",
+            "parent": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "text": "Dump Cost (Wet)"
+        },
+        {
+            "id": "0e813fda-2fba-4b1e-9440-81c84b394828",
+            "type": 1,
+            "parent": "6ddfcdea-9612-4613-b9c0-b63f09986402",
+            "text": "Planned Cost - Scrap Cost"
+        },
+        {
+            "id": "c48cec53-344c-41fb-872e-9afddba13f54",
+            "type": 1,
+            "parent": "6ddfcdea-9612-4613-b9c0-b63f09986402",
+            "text": "Settings/Assumptions - Dump Cost (Wet)"
+        },
+        {
+            "id": "aedf8a3b-1819-4419-94d2-d7c20fe8b83d",
+            "type": 1,
+            "parent": "6ddfcdea-9612-4613-b9c0-b63f09986402",
+            "text": "Projected Cost - Dump Cost (Wet)"
+        },
+        {
+            "id": "90cb291e-cf13-4582-a8b2-bed6517f5b5f",
+            "type": 1,
+            "parent": "6ddfcdea-9612-4613-b9c0-b63f09986402",
+            "text": "Planned Cost - Dump Cost (Wet)"
+        },
+        {
+            "id": "5cb89a3c-290b-497a-8109-4a4a883b5696",
+            "type": 1,
+            "parent": "6ddfcdea-9612-4613-b9c0-b63f09986402",
+            "text": "Approved NSO stores - Dump Cost (Wet)"
+        },
+        {
+            "id": "3761188c-316a-4eb3-808d-c40b3435fdba",
+            "type": 1,
+            "parent": "6ddfcdea-9612-4613-b9c0-b63f09986402",
+            "text": "Final Cost - Dump Cost (Wet)"
+        },
+        {
+            "id": "35681fcc-b730-442b-ab77-45d2b0ddbd77",
+            "parent": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "text": "Shrink Cost (Dry)"
+        },
+        {
+            "id": "cfacb851-d30e-4e59-96c9-0438dc91eee7",
+            "type": 1,
+            "parent": "35681fcc-b730-442b-ab77-45d2b0ddbd77",
+            "text": "ACT Cost - Shrink Cost (Dry)"
+        },
+        {
+            "id": "39fde82a-4bb5-4af3-b2d3-32cb5fcd7d49",
+            "type": 1,
+            "parent": "35681fcc-b730-442b-ab77-45d2b0ddbd77",
+            "text": "Settings/Assumptions - Shrink Cost (Dry)"
+        },
+        {
+            "id": "fb37bd20-bb50-43eb-a879-a5fe8c490d9c",
+            "type": 1,
+            "parent": "35681fcc-b730-442b-ab77-45d2b0ddbd77",
+            "text": "Projected Cost - Shrink Cost (Dry)"
+        },
+        {
+            "id": "697723e4-7dbe-4132-8eea-50017b330f57",
+            "type": 1,
+            "parent": "35681fcc-b730-442b-ab77-45d2b0ddbd77",
+            "text": "Planned Cost - Shrink Cost (Dry)"
+        },
+        {
+            "id": "5c5121bb-8b97-408a-aa19-046a20681dfa",
+            "type": 1,
+            "parent": "35681fcc-b730-442b-ab77-45d2b0ddbd77",
+            "text": "Approved NSO stores - Shrink Cost (Dry)"
+        },
+        {
+            "id": "c7dca3e0-a6aa-4ad8-89b9-86dd0484064c",
+            "type": 1,
+            "parent": "35681fcc-b730-442b-ab77-45d2b0ddbd77",
+            "text": "Final Cost - Shrink Cost (Dry)"
+        },
+        {
+            "id": "9fc30ebf-f3c3-4269-961b-307b09e0d702",
+            "parent": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "text": "Shrink Cost (Wet)"
+        },
+        {
+            "id": "bd0aa4cc-cc5a-415c-8864-45c0e5ecba52",
+            "type": 1,
+            "parent": "9fc30ebf-f3c3-4269-961b-307b09e0d702",
+            "text": "ACT Cost - Devaluation Cost (Wet)"
+        },
+        {
+            "id": "df101366-46ba-4555-8c24-4cd1d2db0dca",
+            "type": 1,
+            "parent": "9fc30ebf-f3c3-4269-961b-307b09e0d702",
+            "text": "Inputs - Devaluation Cost"
+        },
+        {
+            "id": "a5d6d35b-65ad-4675-8693-8342d7940ace",
+            "type": 1,
+            "parent": "9fc30ebf-f3c3-4269-961b-307b09e0d702",
+            "text": "Projected Cost - Devaluation Cost"
+        },
+        {
+            "id": "5e42c72a-2bf3-4eb8-aed2-95e8f2634c32",
+            "type": 1,
+            "parent": "9fc30ebf-f3c3-4269-961b-307b09e0d702",
+            "text": "Planned Cost- Devaluation Cost"
+        },
+        {
+            "id": "84ba2308-2ee9-4cd3-a9b3-9faf9bff108f",
+            "type": 1,
+            "parent": "9fc30ebf-f3c3-4269-961b-307b09e0d702",
+            "text": "Approved NSO stores - Shrink Cost (Wet)"
+        },
+        {
+            "id": "8cf59ede-a748-4536-8658-65b6ec8c741d",
+            "type": 1,
+            "parent": "9fc30ebf-f3c3-4269-961b-307b09e0d702",
+            "text": "Final Cost - Shrink Cost (Wet)"
+        },
+        {
+            "id": "9bb416d6-29fa-438a-9663-008322cdbfc0",
+            "parent": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "text": "WC - Warehouse Cost(Dry)"
+        },
+        {
+            "id": "dc496575-9bb4-4673-b72e-a91a2c1d3796",
+            "type": 1,
+            "parent": "9bb416d6-29fa-438a-9663-008322cdbfc0",
+            "text": "ACT Cost - Warehouse(Dry)"
+        },
+        {
+            "id": "866b752d-9497-4d74-ba04-2147f6d371dc",
+            "type": 1,
+            "parent": "9bb416d6-29fa-438a-9663-008322cdbfc0",
+            "text": "SettingsAssumptions - Warehouse(dry)"
+        },
+        {
+            "id": "fa260505-b05b-4a98-b433-6f6da43671e7",
+            "type": 1,
+            "parent": "9bb416d6-29fa-438a-9663-008322cdbfc0",
+            "text": "Projected Cost  - Warehouse(Dry)"
+        },
+        {
+            "id": "5c1dedf8-4c50-4036-bb07-0520d2960925",
+            "type": 1,
+            "parent": "9bb416d6-29fa-438a-9663-008322cdbfc0",
+            "text": "Planned Cost - Warehouse(Dry)"
+        },
+        {
+            "id": "45123531-7d72-4834-a81a-5ecc448eeed7",
+            "type": 1,
+            "parent": "9bb416d6-29fa-438a-9663-008322cdbfc0",
+            "text": "Approved NSO stores - Warehouse Cost (Dry)"
+        },
+        {
+            "id": "d2ac8ba9-bfd7-40c2-b351-30e87a5f0fb6",
+            "type": 1,
+            "parent": "9bb416d6-29fa-438a-9663-008322cdbfc0",
+            "text": "Final Cost - Warehouse(Dry)"
+        },
+        {
+            "id": "47179ab0-dada-4a39-8391-84d3d0ee738b",
+            "parent": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "text": "WC - Warehouse Cost(Wet)"
+        },
+        {
+            "id": "4f12a4ca-3cee-4d26-a5c5-1329d58f6d59",
+            "type": 1,
+            "parent": "47179ab0-dada-4a39-8391-84d3d0ee738b",
+            "text": "ACT Cost - Warehouse(Wet)"
+        },
+        {
+            "id": "5f9a5c75-adc0-4855-b0eb-6f55191ac9dd",
+            "type": 1,
+            "parent": "47179ab0-dada-4a39-8391-84d3d0ee738b",
+            "text": "Settings/Assumptions - Warehouse(Wet)"
+        },
+        {
+            "id": "2af361a6-61d5-4105-b62f-fe3823ec6fe5",
+            "type": 1,
+            "parent": "47179ab0-dada-4a39-8391-84d3d0ee738b",
+            "text": "Projected Cost  - Warehouse(Wet)"
+        },
+        {
+            "id": "2e782390-a342-41cc-9581-2bb5215b89aa",
+            "type": 1,
+            "parent": "47179ab0-dada-4a39-8391-84d3d0ee738b",
+            "text": "Planned Cost - Warehouse"
+        },
+        {
+            "id": "320e3455-8a70-4ae8-9b09-3c772afa90eb",
+            "type": 1,
+            "parent": "47179ab0-dada-4a39-8391-84d3d0ee738b",
+            "text": "Approved NSO stores - Warehouse Cost (Wet)"
+        },
+        {
+            "id": "a3fbc864-024f-4d81-8825-8dd9c9face07",
+            "type": 1,
+            "parent": "47179ab0-dada-4a39-8391-84d3d0ee738b",
+            "text": "Final Cost - Warehouse"
+        },
+        {
+            "id": "016fa328-25db-4f7a-8729-424c6e383b0e",
+            "parent": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "text": "TC - Transportation Cost(Dry)"
+        },
+        {
+            "id": "31f3d627-b9d9-4641-b487-afdaaf487290",
+            "type": 1,
+            "parent": "016fa328-25db-4f7a-8729-424c6e383b0e",
+            "text": "ACT Cost - Transportation(Dry)"
+        },
+        {
+            "id": "e2aa4748-f1eb-4d2e-805c-8ec3848d7ffa",
+            "type": 1,
+            "parent": "016fa328-25db-4f7a-8729-424c6e383b0e",
+            "text": "Settings/Assumptions - Transportation(Dry)"
+        },
+        {
+            "id": "da0a6a06-df7a-4af3-907b-5ded9fbd8051",
+            "type": 1,
+            "parent": "016fa328-25db-4f7a-8729-424c6e383b0e",
+            "text": "Projected Cost - Transportation(Dry)"
+        },
+        {
+            "id": "9303201e-1c0a-41d7-a848-eb4c6ba31b68",
+            "type": 1,
+            "parent": "016fa328-25db-4f7a-8729-424c6e383b0e",
+            "text": "Planned Cost - Transportation(Dry)"
+        },
+        {
+            "id": "1b203042-c421-4fca-b978-7ce263f5d035",
+            "type": 1,
+            "parent": "016fa328-25db-4f7a-8729-424c6e383b0e",
+            "text": "Approved NSO stores - Trasnportation  Cost (Dry)"
+        },
+        {
+            "id": "d1fb1ac5-765d-489a-b2ee-3236d147a700",
+            "type": 1,
+            "parent": "016fa328-25db-4f7a-8729-424c6e383b0e",
+            "text": "Final Cost - Transportation(Dry)"
+        },
+        {
+            "id": "3b72b994-be75-401b-af8e-3d7689c0d474",
+            "parent": "b87c0fc2-2150-41aa-921c-dceec8880c13",
+            "text": "TC - Transportation Cost(Wet)"
+        },
+        {
+            "id": "a6cf5d91-19a6-4f62-9a9b-0945d649cda2",
+            "type": 1,
+            "parent": "3b72b994-be75-401b-af8e-3d7689c0d474",
+            "text": "ACT Cost - Transportation "
+        },
+        {
+            "id": "95024dac-fd4b-47bf-b7dc-d8deb420443f",
+            "type": 1,
+            "parent": "3b72b994-be75-401b-af8e-3d7689c0d474",
+            "text": "Settings/Assumptions - Transportation"
+        },
+        {
+            "id": "36075a6e-01a1-458d-bed1-6f048cac63f5",
+            "type": 1,
+            "parent": "3b72b994-be75-401b-af8e-3d7689c0d474",
+            "text": "Projected Cost - Transportation"
+        },
+        {
+            "id": "0e824489-9708-4954-95d0-aa365f753787",
+            "type": 1,
+            "parent": "3b72b994-be75-401b-af8e-3d7689c0d474",
+            "text": "Planned Cost - Transportation"
+        },
+        {
+            "id": "ed5034e0-33a1-4027-bf27-11d712befeba",
+            "type": 1,
+            "parent": "3b72b994-be75-401b-af8e-3d7689c0d474",
+            "text": "Approved NSO stores - Trasnportation  Cost (Wet)"
+        },
+        {
+            "id": "058a6d5e-7ce0-4dcd-b395-646eee1189e1",
+            "type": 1,
+            "parent": "3b72b994-be75-401b-af8e-3d7689c0d474",
+            "text": "Final Cost - Transportation"
+        },
+        {
+            "id": "ff79d113-8478-4bc3-9fd2-0afbbadad60b",
+            "parent": "57ab8038-49ab-4f48-b7fa-0b848e6c0192",
+            "text": "ID - without category & with metrix"
+        },
+        {
+            "id": "82c976ae-70e8-44c6-83cb-c7f74bdb9e02",
+            "parent": "ff79d113-8478-4bc3-9fd2-0afbbadad60b",
+            "text": "C&P - Consumable and Packings"
+        },
+        {
+            "id": "3677d63f-ee96-413a-b35c-b95851a3a847",
+            "type": 1,
+            "parent": "82c976ae-70e8-44c6-83cb-c7f74bdb9e02",
+            "text": "ACT Cost - Consumables & Packaging"
+        },
+        {
+            "id": "8f88f55b-cd26-4125-ad6d-b163665d092e",
+            "type": 1,
+            "parent": "82c976ae-70e8-44c6-83cb-c7f74bdb9e02",
+            "text": "Settings/Assumptions - Consumables & Packaging"
+        },
+        {
+            "id": "8fcd30d5-fda9-4c41-bd88-da445d984c4d",
+            "type": 1,
+            "parent": "82c976ae-70e8-44c6-83cb-c7f74bdb9e02",
+            "text": "Projected Cost - Consumables & Packaging"
+        },
+        {
+            "id": "41825532-36b2-4ef3-9d47-e52e72c1f605",
+            "type": 1,
+            "parent": "82c976ae-70e8-44c6-83cb-c7f74bdb9e02",
+            "text": "Planned Cost - Consumables & Packaging"
+        },
+        {
+            "id": "1d551216-6b3f-436b-b7dc-8b9850e68bd7",
+            "type": 1,
+            "parent": "82c976ae-70e8-44c6-83cb-c7f74bdb9e02",
+            "text": "Approved NSO- Consumables & Packaging"
+        },
+        {
+            "id": "9dad2964-807a-4f79-9d4a-63db41aa1aac",
+            "type": 1,
+            "parent": "ff79d113-8478-4bc3-9fd2-0afbbadad60b",
+            "text": "Final Cost  - Consumables & Packaging"
+        },
+        {
+            "id": "c997f84f-3e61-475c-8b1f-cfd31c761fe0",
+            "parent": "ff79d113-8478-4bc3-9fd2-0afbbadad60b",
+            "text": "ITC Reversal"
+        },
+        {
+            "id": "b2aee996-3ba6-4a0c-9a7a-caf71ef2f8ab",
+            "type": 1,
+            "parent": "c997f84f-3e61-475c-8b1f-cfd31c761fe0",
+            "text": "ACT Cost - Sales & Promotions"
+        },
+        {
+            "id": "f76dbcc0-23a6-4aee-9b51-db326f87ddc1",
+            "type": 1,
+            "parent": "c997f84f-3e61-475c-8b1f-cfd31c761fe0",
+            "text": "Settings/Assumptions - ITC Reversal"
+        },
+        {
+            "id": "f2c590ff-98b7-4e63-82dd-53852e43add2",
+            "type": 1,
+            "parent": "c997f84f-3e61-475c-8b1f-cfd31c761fe0",
+            "text": "Projected Cost - Sales & Promotions"
+        },
+        {
+            "id": "bdd6dfff-587d-4318-b11d-a2245f384ea1",
+            "type": 1,
+            "parent": "c997f84f-3e61-475c-8b1f-cfd31c761fe0",
+            "text": "Planned Cost - Sales & promotions"
+        },
+        {
+            "id": "b0b73d82-d50f-40f9-8d89-955ca88c9a35",
+            "type": 1,
+            "parent": "c997f84f-3e61-475c-8b1f-cfd31c761fe0",
+            "text": "Approved NSO- ITC Reversal"
+        },
+        {
+            "id": "bb620011-d4c3-40bb-8a74-3c8bd71a230d",
+            "type": 1,
+            "parent": "c997f84f-3e61-475c-8b1f-cfd31c761fe0",
+            "text": "Final Cost - Sales & Promotions"
+        },
+        {
+            "id": "cf2fffdf-cab1-42f9-b43f-c6d9bfe8de92",
+            "parent": "57ab8038-49ab-4f48-b7fa-0b848e6c0192",
+            "text": "ID - without category & without metrix"
+        },
+        {
+            "id": "2dac30ae-96d5-4a45-8694-6008c4ad78c7",
+            "parent": "cf2fffdf-cab1-42f9-b43f-c6d9bfe8de92",
+            "text": "Other Expense"
+        },
+        {
+            "id": "23775e58-37de-4b60-8710-f5ba48055b37",
+            "type": 1,
+            "parent": "2dac30ae-96d5-4a45-8694-6008c4ad78c7",
+            "text": "ACT Cost - Other Expenses"
+        },
+        {
+            "id": "03c80e72-3c4e-405f-aa0f-fe1f9ed4c216",
+            "type": 1,
+            "parent": "2dac30ae-96d5-4a45-8694-6008c4ad78c7",
+            "text": "Settings/Assumptions - Other Expenses"
+        },
+        {
+            "id": "87e0f642-67bf-4a50-a3f4-d86d3044a1ab",
+            "type": 1,
+            "parent": "2dac30ae-96d5-4a45-8694-6008c4ad78c7",
+            "text": "Projected Cost - Other Expenses"
+        },
+        {
+            "id": "23c5cfaa-a652-49a2-bea3-a68972ef7a7b",
+            "type": 1,
+            "parent": "2dac30ae-96d5-4a45-8694-6008c4ad78c7",
+            "text": "Planned Cost - Other Expenses"
+        },
+        {
+            "id": "e4f066fe-44c7-43dd-bbcd-c02c91fb33ae",
+            "type": 1,
+            "parent": "2dac30ae-96d5-4a45-8694-6008c4ad78c7",
+            "text": "Approved NSO- Other Expense "
+        },
+        {
+            "id": "02495036-b29f-4eb8-890b-83a9b7f71978",
+            "type": 1,
+            "parent": "2dac30ae-96d5-4a45-8694-6008c4ad78c7",
+            "text": "Final Cost - Other Expenses"
+        },
+        {
+            "id": "f157085c-43f6-44a4-9ed1-68ab40bc9a55",
+            "parent": "cf2fffdf-cab1-42f9-b43f-c6d9bfe8de92",
+            "text": "S&P - Sales and Promotion"
+        },
+        {
+            "id": "c68cc077-041d-4d1a-993c-0dd8dc4a6186",
+            "type": 1,
+            "parent": "f157085c-43f6-44a4-9ed1-68ab40bc9a55",
+            "text": "ACT Cost - Sales & Promotion"
+        },
+        {
+            "id": "b980de3b-a524-4f76-8aaa-133b7f56ad2f",
+            "type": 1,
+            "parent": "f157085c-43f6-44a4-9ed1-68ab40bc9a55",
+            "text": "Settings/Assumptions - Sales & Promotion"
+        },
+        {
+            "id": "0ed8da5d-cc65-4e17-91b8-fe76db24a08a",
+            "type": 1,
+            "parent": "f157085c-43f6-44a4-9ed1-68ab40bc9a55",
+            "text": "Projected Cost - Sales & Promotion"
+        },
+        {
+            "id": "8c428460-8601-4772-bc80-99c930d779f9",
+            "type": 1,
+            "parent": "f157085c-43f6-44a4-9ed1-68ab40bc9a55",
+            "text": "Planned Cost - Sales & Promotion"
+        },
+        {
+            "id": "3230d869-a350-487f-ab72-8970f25248da",
+            "type": 1,
+            "parent": "f157085c-43f6-44a4-9ed1-68ab40bc9a55",
+            "text": "Approved NSO- Sales & promotion"
+        },
+        {
+            "id": "cb6dd601-7b5c-4955-8520-1b75a5eef7ca",
+            "type": 1,
+            "parent": "f157085c-43f6-44a4-9ed1-68ab40bc9a55",
+            "text": "Final Cost - Sales & Promotion"
+        },
+        {
+            "id": "996901bc-d323-4a8d-8b04-0f3562a37bff",
+            "parent": "cf2fffdf-cab1-42f9-b43f-c6d9bfe8de92",
+            "text": "F&F - Freight & Forwarding"
+        },
+        {
+            "id": "5ba02009-bf07-443f-b062-0f3b4f06f334",
+            "type": 1,
+            "parent": "996901bc-d323-4a8d-8b04-0f3562a37bff",
+            "text": "ACT Cost - Freight & Forwarding"
+        },
+        {
+            "id": "b569c40d-514a-499f-9a52-2b2db36d32ec",
+            "type": 1,
+            "parent": "996901bc-d323-4a8d-8b04-0f3562a37bff",
+            "text": "Settings/Assumptions - Freight & Forwarding"
+        },
+        {
+            "id": "90e04edb-9564-4be7-9045-f10aea90fa57",
+            "type": 1,
+            "parent": "996901bc-d323-4a8d-8b04-0f3562a37bff",
+            "text": "Projected Cost - Freight & Forwarding"
+        },
+        {
+            "id": "e47b8329-68d0-4c7b-93c8-b7d7f0cedeea",
+            "type": 1,
+            "parent": "996901bc-d323-4a8d-8b04-0f3562a37bff",
+            "text": "Planned Cost - Freight & Forwarding"
+        },
+        {
+            "id": "beca4cb0-ac2a-49b8-98bd-7d23f24172f1",
+            "type": 1,
+            "parent": "996901bc-d323-4a8d-8b04-0f3562a37bff",
+            "text": "Approved NSO- Freight & Forwarding"
+        },
+        {
+            "id": "9314a378-0cc3-406d-9561-94a7389d55c7",
+            "type": 1,
+            "parent": "996901bc-d323-4a8d-8b04-0f3562a37bff",
+            "text": "Final Cost - Freight & Forwarding"
+        },
+        {
+            "id": "7a8ad5dc-8cbf-4631-a433-9df2de720d91",
+            "parent": "57ab8038-49ab-4f48-b7fa-0b848e6c0192",
+            "text": "ID - Collection category"
+        },
+        {
+            "id": "26607ca8-52e4-43c4-b761-52f34f122536",
+            "parent": "7a8ad5dc-8cbf-4631-a433-9df2de720d91",
+            "text": "Bank Charges"
+        },
+        {
+            "id": "db629681-5400-498a-ab32-38a7dc51ff5c",
+            "type": 1,
+            "parent": "26607ca8-52e4-43c4-b761-52f34f122536",
+            "text": "ACT Cost - Bank Charges"
+        },
+        {
+            "id": "9e768c7f-8aa3-4323-ab64-1a434a8cacb4",
+            "type": 1,
+            "parent": "26607ca8-52e4-43c4-b761-52f34f122536",
+            "text": "Settings/Assumptions - Bank Charges"
+        },
+        {
+            "id": "7df92359-cc24-4f90-85b5-3dd29c9c7c21",
+            "type": 1,
+            "parent": "26607ca8-52e4-43c4-b761-52f34f122536",
+            "text": "Projected Cost - Bank Charges"
+        },
+        {
+            "id": "41c3161b-5172-4ec9-99f4-cf1f4e53aa10",
+            "type": 1,
+            "parent": "26607ca8-52e4-43c4-b761-52f34f122536",
+            "text": "Planned Cost - Bank Charges"
+        },
+        {
+            "id": "8fd1daa4-14b1-46ee-98d8-a15806cd4704",
+            "type": 1,
+            "parent": "26607ca8-52e4-43c4-b761-52f34f122536",
+            "text": "Approved NSO- Bank Charges"
+        },
+        {
+            "id": "89294519-568b-4af5-9322-ffc9e2282122",
+            "type": 1,
+            "parent": "26607ca8-52e4-43c4-b761-52f34f122536",
+            "text": "Final Cost - Bank Charges"
+        },
+        {
+            "id": "010492f2-c0ab-4f43-8957-5352eb0a23c3",
+            "parent": "57ab8038-49ab-4f48-b7fa-0b848e6c0192",
+            "text": "Other Income"
+        },
+        {
+            "id": "b417b42d-b5f8-4a66-9aa3-93a3af3b510f",
+            "type": 1,
+            "parent": "010492f2-c0ab-4f43-8957-5352eb0a23c3",
+            "text": "ACT Cost %  - S&P - Other Income"
+        },
+        {
+            "id": "9c760f43-6996-4c25-baf3-e88d9ee5ed94",
+            "type": 1,
+            "parent": "010492f2-c0ab-4f43-8957-5352eb0a23c3",
+            "text": "Inflation % - S&P - Other Income"
+        },
+        {
+            "id": "2a6939fd-1c2f-41de-9275-4a124a2019d9",
+            "type": 1,
+            "parent": "010492f2-c0ab-4f43-8957-5352eb0a23c3",
+            "text": "ACT + Projection - S&P - Other Income"
+        },
+        {
+            "id": "6cc97885-8089-4745-bce8-d0fa2f769b5d",
+            "type": 1,
+            "parent": "010492f2-c0ab-4f43-8957-5352eb0a23c3",
+            "text": "Planning - S&P - Other Income"
+        },
+        {
+            "id": "4b48bd9f-56d4-4947-9135-e1fb194ba227",
+            "type": 1,
+            "parent": "010492f2-c0ab-4f43-8957-5352eb0a23c3",
+            "text": "Output - S&P - Other Income - LRP"
+        },
+        {
+            "id": "371b7884-d402-4c4d-9244-86493f7d0a37",
+            "type": 1,
+            "parent": "010492f2-c0ab-4f43-8957-5352eb0a23c3",
+            "text": "Output - S&P - Other Income"
+        },
+        {
+            "id": "9fc91e2f-91d5-4cb2-99b4-04428e412bc1",
+            "type": 1,
+            "text": "AOP - GP1 - Metrices"
+        },
+        {
+            "id": "ef97afe0-1c6e-449f-8610-39e788c31387",
+            "type": 1,
+            "text": "AOP - GP1 - ACT + Projected "
+        },
+        {
+            "id": "e0eb1f3b-a757-4a83-acce-ec023a31e6db",
+            "type": 1,
+            "text": "AOP - GP1 - Planning"
+        },
+        {
+            "id": "072db1a9-5ce3-4ed3-a20a-f999b1965155",
+            "type": 1,
+            "text": "AOP - GP2 - Metrices "
+        },
+        {
+            "id": "2521a3a1-8819-4126-be8a-4010e745e0d1",
+            "type": 1,
+            "text": "AOP - GP2 - ACT + Projected "
+        },
+        {
+            "id": "5783f3aa-44b0-4007-acce-c58fa7d68449",
+            "type": 1,
+            "text": "AOP - GP2 -Planning "
+        },
+        {
+            "id": "1254fab3-a2f1-45a1-ba5d-9c9d0bace9dd",
+            "type": 1,
+            "text": "AOP - Tax - Actual Gross Sales"
+        },
+        {
+            "id": "32e995a9-7d02-42bf-b990-ecd441134588",
+            "type": 1,
+            "text": "AOP - Tax - Actual Tax %"
+        },
+        {
+            "id": "e12b16f7-3c5f-4f3e-a4e0-e69ade423d6d",
+            "type": 1,
+            "text": "AOP - Tax - Projected Tax"
+        },
+        {
+            "id": "bc27fdb0-d12a-44a7-b271-0ff04f23e71b",
+            "type": 1,
+            "text": "AOP - Tax - Plan Tax"
+        },
+        {
+            "id": "c3e14f67-dfd6-4228-96da-ceaf879421e2",
+            "type": 1,
+            "text": "AOP - Gross Sales - 2"
+        },
+        {
+            "id": "63a1da91-ae39-41e1-a9b0-ddaa1f15c0ad",
+            "type": 1,
+            "text": "AOP - Gross Sales - 3"
+        },
+        {
+            "id": "fc0d2a72-d903-4ff3-a176-04be5fb66bd4",
+            "type": 1,
+            "text": "Revenue Planning "
+        },
+        {
+            "id": "7cfd3f62-043f-4131-a35a-53d813790b98",
+            "type": 1,
+            "text": "Cost Planning"
+        },
+        {
+            "id": "6f58bcbf-82b7-434d-9b4e-e786c851f57c",
+            "type": 1,
+            "text": "AK Test"
+        },
+        {
+            "id": "b4e1adf7-25af-414a-a3bc-e2a9c1e0c902",
+            "type": 1,
+            "text": "Test Aryan"
+        },
+        {
+            "id": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Reporting"
+        },
+        {
+            "id": "2047220e-a3fc-4068-b87a-334d02520165",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Working Captial (Inventory)"
+        },
+        {
+            "id": "1f4c8c9d-3221-4f64-ac17-5f206142fa16",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Test Actuals Working Capital"
+        },
+        {
+            "id": "a748de58-d927-4cc7-8f25-dda6960b2d06",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "DOH - Inventory"
+        },
+        {
+            "id": "ab9b8e66-6ceb-45c3-9337-4f835f38afb8",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Actuals COGS (WC)"
+        },
+        {
+            "id": "8e3a8d49-126e-4840-ad50-959c5bc8eb53",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Balancesheet"
+        },
+        {
+            "id": "ba01796e-b9fd-4017-a73a-557e9390880f",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Store Capex Working (BS)"
+        },
+        {
+            "id": "3e1e2398-aa46-4fe8-9938-ddd529e2e60a",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Warehouse Capex Working (BS)  |"
+        },
+        {
+            "id": "55781858-96ab-4497-bc47-d13a386c136a",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Miscellaneous Inputs working (BS)"
+        },
+        {
+            "id": "f6c7324b-7e7b-457f-80c8-223b98567f4e",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "AOP Cashflow"
+        },
+        {
+            "id": "db0990a0-5dfc-4912-b795-0d8d732c4874",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "AOP Profit and Loss"
+        },
+        {
+            "id": "9df9ffc1-141b-4adf-9679-99641d04725b",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Actual Working Captial"
+        },
+        {
+            "id": "e26f2193-04eb-4150-90e6-8397c3f9bb9f",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "P&L (WC)"
+        },
+        {
+            "id": "86041139-f9d2-4e31-a674-a30e79f163f8",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Innput (WC)"
+        },
+        {
+            "id": "2a7e3a32-43af-4ada-9058-291d90af363f",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Projected & Planning"
+        },
+        {
+            "id": "e350bfb7-a5ad-4233-8c74-0b2bb18c6dcc",
+            "type": 1,
+            "parent": "55e2b314-85bd-4764-b8af-eb45ab1019ab",
+            "text": "Final Working Capital "
+        },
+        {
+            "id": "afe188bc-bb0c-4ea8-ba70-8c56102d5f84",
+            "type": 1,
+            "text": "Revenue Planning - BKP"
+        },
+        {
+            "id": "9ebae32e-8046-49a0-b933-c565bde68560",
+            "type": 1,
+            "text": "Cost Planning - BKP"
+        },
+        {
+            "id": "fc4aff52-cc97-43ca-aad4-3ce97b207cdd",
+            "type": 1,
+            "text": "test aryan 2"
+        },
+        {
+            "id": "844cdde2-1620-43e7-8192-63788ec648dc",
+            "type": 1,
+            "text": "Store- Geo"
+        },
+        {
+            "id": "7d5297be-4ed3-49b4-b5e2-3bf5bbadae81",
+            "type": 1,
+            "text": "AOP - GP2 - CAP%"
+        },
+        {
+            "id": "065c23c0-7799-40e0-b127-9c19c54d9ea6",
+            "type": 1,
+            "text": "Revenue Test"
+        },
+        {
+            "id": "e18a2694-0e94-47e9-ae70-13ffc11f4bf0",
+            "type": 1,
+            "text": "AOP - GP1 - CAP %"
+        },
+        {
+            "id": "455285bf-db83-4080-b0a6-2577c7f00314",
+            "type": 1,
+            "text": "Capping %"
+        },
+        {
+            "id": "4c6334cd-7975-424c-9d30-d139cbaf64dd",
+            "type": 1,
+            "text": "AK test"
+        },
+        {
+            "id": "1aa5cc9b-6ca6-411c-a41b-cca795b2a642",
+            "type": 1,
+            "text": "Approved NSO- Other Income"
+        },
+        {
+            "id": "7a9624e8-5505-4282-aad9-1831369f7e60",
+            "type": 1,
+            "text": "test Profit and Loss"
+        },
+        {
+            "id": "78f3294b-5015-46e8-ac53-ad32ca1523c8",
+            "type": 1,
+            "text": "AOP - GP1 - AVG Metrics %"
+        },
+        {
+            "id": "d299d40c-2565-47f5-9491-bad4e698ee7f",
+            "type": 1,
+            "text": "AOP - GP2 - AVG Metrics %"
+        },
+        {
+            "id": "4864cb0a-104c-452f-975c-81ed51eae304",
+            "text": "NSO Model PNL"
+        },
+        {
+            "id": "948eb90f-bc0f-43aa-a1de-d7a3fce4741f",
+            "type": 1,
+            "parent": "4864cb0a-104c-452f-975c-81ed51eae304",
+            "text": "Model PNL"
+        },
+        {
+            "id": "a177ba6b-e110-4c92-9f93-c144bc884f87",
+            "type": 1,
+            "parent": "4864cb0a-104c-452f-975c-81ed51eae304",
+            "text": "Assumptions - NSO Model PNL"
+        },
+        {
+            "id": "06054229-8815-4767-b09a-86fc4de35949",
+            "type": 1,
+            "parent": "4864cb0a-104c-452f-975c-81ed51eae304",
+            "text": "Model PNL After ASS"
+        },
+        {
+            "id": "1412d0c7-d967-415e-b9fe-4c9225876155",
+            "type": 1,
+            "parent": "4864cb0a-104c-452f-975c-81ed51eae304",
+            "text": "New Store Opening"
+        },
+        {
+            "id": "80896167-176f-4bc2-809a-b76f2c1eb6fa",
+            "type": 1,
+            "parent": "4864cb0a-104c-452f-975c-81ed51eae304",
+            "text": "PNL Report"
+        },
+        {
+            "id": "b547fd60-76a6-4a0c-abaa-32f44aa10d06",
+            "type": 1,
+            "parent": "4864cb0a-104c-452f-975c-81ed51eae304",
+            "text": "LRP 5 Year Plan"
+        },
+        {
+            "id": "89327955-17d7-4b2d-afc2-7acc68773495",
+            "type": 1,
+            "text": "Miscellaneous Inputs working 2 (BS)"
+        },
+        {
+            "id": "9fda6f7c-eebf-4d2d-ae0d-eb10f0c3d947",
+            "type": 1,
+            "text": "Revenue Planning - Revenue (LY NSO) 3b"
+        },
+        {
+            "id": "5748602d-aa29-4983-8399-c98a468076e8",
+            "type": 1,
+            "text": "6.3.1 Design Principle"
+        },
+        {
+            "id": "793085b4-2364-4c87-aeb5-4c93c58217df",
+            "type": 1,
+            "text": "Model P&L - With category"
+        },
+        {
+            "id": "62f03a04-057e-4aba-9c59-fae0e2bf47ae",
+            "type": 1,
+            "text": "Model P&L - Dump cost % at level"
+        },
+        {
+            "id": "3170a7a9-8d13-4884-91fc-9779bf9ebd50",
+            "type": 1,
+            "text": "Adjustment"
+        },
+        {
+            "id": "94b10f82-b982-4bde-82eb-4def1244513f",
+            "type": 1,
+            "text": "Model P&L - Dump cost % at level with adjustment"
+        },
+        {
+            "id": "feb8e593-d510-4ccb-9508-59057f15d9d5",
+            "type": 1,
+            "text": "Model P&L - Dump cost % at level w/o category"
+        },
+        {
+            "id": "eaeec997-5284-4f54-aa22-8df433170561",
+            "type": 1,
+            "text": "Model P&L - Dump cost % at level with adjustment wo category"
+        },
+        {
+            "id": "4ce6437f-3fd1-475f-8bb1-0e161eb28e8e",
+            "type": 1,
+            "text": "Model P&L - Fixed cost"
+        },
+        {
+            "id": "8bdde6b1-a66e-4467-b0fc-a38a86daf8a2",
+            "type": 1,
+            "text": "Model P&L - Fixed cost with adjustment "
+        },
+        {
+            "id": "e42dac22-7652-4df5-b5d5-6112ba45ba49",
+            "type": 1,
+            "text": "Headcount "
+        },
+        {
+            "id": "b839679e-4383-4ccc-8ef6-af53dfb87c35",
+            "type": 1,
+            "text": "Adjustment -Fixed cost"
+        },
+        {
+            "id": "1a24d494-9849-4f91-af61-789fb1f1fff4",
+            "type": 1,
+            "text": "Normalization Driver Setup"
+        },
+        {
+            "id": "bf6efc0e-68d0-4178-81b3-808f1f87f0e8",
+            "type": 1,
+            "text": "test - Shakti 1"
+        },
+        {
+            "id": "26af6146-97ff-45b7-9b4b-1dc9c5cb3ed2",
+            "type": 1,
+            "text": "Average GP1GP2"
+        },
+        {
+            "id": "8d34537d-0ab7-4eeb-bf59-87da2a48f3ca",
+            "type": 1,
+            "text": "Average GP2"
+        },
+        {
+            "id": "872cca38-b4d2-4f16-a09b-e151e4af94fc",
+            "type": 1,
+            "text": "De-Hiring"
+        },
+        {
+            "id": "fed52629-29c6-4607-8fdd-2420f30cebcd",
+            "type": 1,
+            "text": "Model Pnl - Staff Cost"
+        },
+        {
+            "id": "fb56a13c-1bf7-4c6c-b742-988853b04a80",
+            "type": 1,
+            "text": "AOP GST Working"
+        },
+        {
+            "id": "e769654a-f58f-429e-ac30-c220d96d6e03",
+            "type": 1,
+            "text": "Model Pnl - HKPC"
+        },
+        {
+            "id": "2f28277c-bbd0-4ebf-94ab-dec31a48e7f1",
+            "type": 1,
+            "text": "De-hiring Setting"
+        },
+        {
+            "id": "29844e36-2672-41d4-81df-7763be3830d9",
+            "type": 1,
+            "text": "De-hiring - Projected Component"
+        },
+        {
+            "id": "64ccfd65-ec49-43a5-9f38-90a2f59a77e6",
+            "type": 1,
+            "text": "De-hiring - Adjusted Data"
+        },
+        {
+            "id": "35742978-86f0-492e-842d-a883af43a11a",
+            "type": 1,
+            "text": "Adjusted Average GP2"
+        },
+        {
+            "id": "87632916-9284-4396-a670-09a3b516e2a7",
+            "type": 1,
+            "text": "Model Pnl - Security"
+        },
+        {
+            "id": "4f732697-f2a4-4c23-8272-aa859be7324d",
+            "type": 1,
+            "text": "Variable Cost - Category - Allocation"
+        },
+        {
+            "id": "64d0fabb-d1b0-46f3-921a-9a9c04408356",
+            "type": 1,
+            "text": "Variable Cost. - Allocation"
+        },
+        {
+            "id": "5b905278-c646-4f69-8f2c-adbe35b3e1ea",
+            "type": 1,
+            "text": "Fixed Cost - Allocation"
+        },
+        {
+            "id": "7acc6168-c7d3-46d7-9c83-a64e0a158079",
+            "type": 1,
+            "text": "Input Area - Test"
+        },
+        {
+            "id": "9cd35f96-79bd-4ffe-953a-4fb116cc1a8e",
+            "type": 1,
+            "text": "CENTRAL COST"
+        },
+        {
+            "id": "27cd4aee-fed0-4c5f-9a9e-43e3748db4be",
+            "type": 1,
+            "text": " Staff Cost Workings - CENTRAL COST"
+        },
+        {
+            "id": "38a493c4-e5bd-4400-bff4-c23b29d2f331",
+            "type": 1,
+            "text": " Format Staff Cost Workings - CENTRAL COST"
+        },
+        {
+            "id": "6b051211-889f-434d-9374-063857eaa68a",
+            "type": 1,
+            "text": " Input Drivers - CENTRAL COST"
+        },
+        {
+            "id": "5e60477a-e6be-410c-b3a9-c89b9b8ff424",
+            "type": 1,
+            "text": "Actuals - CENTRAL COST"
+        },
+        {
+            "id": "93d495e2-ebbb-4c25-8e13-69c24bb6d9f2",
+            "type": 1,
+            "text": "State Level Report"
+        },
+        {
+            "id": "f45e85e9-df21-4134-91c8-48f0f4b16ab9",
+            "type": 1,
+            "text": "Communication Exps  - Central Cost"
+        },
+        {
+            "id": "27f4b809-0fd8-45f7-8f9b-61620ab36954",
+            "type": 1,
+            "text": "PME Cost - Central Cost"
+        },
+        {
+            "id": "91f6da71-f33b-421f-8391-6f6799ae85a1",
+            "type": 1,
+            "text": "LFL - Depreciation"
+        },
+        {
+            "id": "3c928c5e-56cb-4f53-9de8-b073b667d993",
+            "type": 1,
+            "text": "Test VS"
+        },
+        {
+            "id": "51c771e9-1709-402a-8dc3-745c84ae906e",
+            "type": 1,
+            "text": "Increment-Decrement  - Central Cost"
+        },
+        {
+            "id": "f3c45ee8-ee5e-4b0f-8329-411a21a13d66",
+            "type": 1,
+            "text": "Travel Expense  - Central Cost"
+        },
+        {
+            "id": "a5ee9443-09ac-4312-81e4-86e4dc8ea8b7",
+            "type": 1,
+            "text": "Increment % GP 1"
+        },
+        {
+            "id": "77b3469e-5885-4464-bf0e-868f5fdad44a",
+            "type": 1,
+            "text": "Average SPSF"
+        },
+        {
+            "id": "95d7c41a-f270-4289-8af8-ceba448f1897",
+            "type": 1,
+            "text": "Metrics - Revenue"
+        },
+        {
+            "id": "708c4fa0-ce91-4450-be57-5f11bb74fe8c",
+            "type": 1,
+            "text": "ADJ SPSF - Revenue"
+        },
+        {
+            "id": "36f847af-dce8-426d-ad39-5797efca8ee1",
+            "type": 1,
+            "text": "AVG GP 1%"
+        },
+        {
+            "id": "94a4af4f-1f9d-4bdf-be67-8eb1e3c02d86",
+            "type": 1,
+            "text": "GP 1% After ADJ"
+        },
+        {
+            "id": "b464b808-1217-481f-a55b-43d83c58d40c",
+            "type": 1,
+            "text": "Metrics - GP 1"
+        },
+        {
+            "id": "281b7d4f-ad38-4b17-84a4-8792a852797e",
+            "type": 1,
+            "text": "ADJ GP 1%"
+        },
+        {
+            "id": "22d978c6-2f2a-4b88-8d6c-63a66df767b9",
+            "type": 1,
+            "text": "AVG GP 2%"
+        },
+        {
+            "id": "6e47182a-aa24-4ac1-a001-c86f5f0e0859",
+            "type": 1,
+            "text": "Increment % GP 2"
+        },
+        {
+            "id": "83efb5cd-b63c-4f92-9c4f-057e9cd7ef64",
+            "type": 1,
+            "text": "GP 2% After ADJ"
+        },
+        {
+            "id": "6aafbffd-8b2a-4588-b70f-a0cf496ab7e3",
+            "type": 1,
+            "text": "Metrics - GP 2"
+        },
+        {
+            "id": "a552bc29-3174-4932-a7fc-8dce0c6fd5a1",
+            "type": 1,
+            "text": "ADJ GP 2%"
+        },
+        {
+            "id": "1c9da594-f950-4d05-a012-b429cb1d61d3",
+            "type": 1,
+            "text": "New Store Upload"
+        },
+        {
+            "id": "ca4389df-6593-4078-be6c-87a5601c9be1",
+            "type": 1,
+            "text": "Report"
+        },
+        {
+            "id": "7e0bbb8a-83a6-49c7-899e-f688e1c01c67",
+            "type": 1,
+            "text": "Fixed Cost (Utilities) - Allocation"
+        },
+        {
+            "id": "fe2ebb26-4eb2-4244-9e41-1d4f0382cf5a",
+            "type": 1,
+            "text": "LRP"
+        },
+        {
+            "id": "259b2aad-b792-4870-98b9-e1544fe109c3",
+            "type": 1,
+            "text": "LRP - For Testing"
+        },
+        {
+            "id": "9f0f7ba6-5e42-4951-b252-e4e448bd95c6",
+            "type": 1,
+            "text": "Adjustment -wo Category"
+        },
+        {
+            "id": "f2a781a2-a927-4f85-8086-f87b182f9b07",
+            "type": 1,
+            "text": "LRP 5 year Report"
+        },
+        {
+            "id": "ba91f303-e64b-4560-80fa-c887c360bb12",
+            "type": 1,
+            "text": "Model Pnl - Bank Charges"
+        },
+        {
+            "id": "d233f84f-0eb4-4336-b345-493383ba742d",
+            "type": 1,
+            "text": "AOP - Partner Share"
+        },
+        {
+            "id": "f1184fe9-cb84-414a-9222-646a2fe4528e",
+            "type": 1,
+            "text": "Home - BKP NEW"
+        },
+        {
+            "id": "bd4d6b45-157d-47a5-a744-d04636f3fa51",
+            "type": 1,
+            "text": "LRP 5 Year Plan Productivity"
+        },
+        {
+            "id": "d92024b3-534a-46d3-907a-da99bd28d9e5",
+            "type": 1,
+            "text": "Test - Akshay"
+        },
+        {
+            "id": "d6d120bd-7bad-464d-83aa-729ac2fb207a",
+            "type": 1,
+            "text": "AOP - Discount - Actual Discount %"
+        },
+        {
+            "id": "9a6f7bba-c2c3-4db9-a366-1a11be72ff87",
+            "type": 1,
+            "text": "AOP - Discount - Projected Discount"
+        },
+        {
+            "id": "015b9f75-4284-4865-a685-0d4b46f54d58",
+            "type": 1,
+            "text": "AOP -  MRP"
+        },
+        {
+            "id": "981b2b86-2ded-457a-8097-5ada3bf5ba38",
+            "type": 1,
+            "text": "AOP -  COGS"
+        },
+        {
+            "id": "33189391-c951-4046-8241-f93d5b60541a",
+            "type": 1,
+            "text": "AOP - GP 1"
+        },
+        {
+            "id": "d1e79758-c79c-42c0-bee8-c59801d46472",
+            "type": 1,
+            "text": "6.8.3 Staff Cost Projected"
+        },
+        {
+            "id": "92f648ea-f343-4047-acc1-7594c8686b62",
+            "type": 1,
+            "text": "AOP - GST % - Month Level"
+        },
+        {
+            "id": "76714bcb-7782-430e-81f9-48461ee92b85",
+            "type": 1,
+            "text": "AOP - Tax - Projected Tax Amount"
+        },
+        {
+            "id": "1bdba9d0-1ade-4c6a-b56d-f88c3b3d715e",
+            "type": 1,
+            "text": "Staff Cost Driver- CENTRAL COST"
+        },
+        {
+            "id": "d17d85e3-47bc-400f-8e9a-63f4efe70693",
+            "type": 1,
+            "text": "Actuals - CENTRAL COST brand"
+        },
+        {
+            "id": "7c36761d-113d-4f19-ad26-ac7e3a35bf10",
+            "type": 1,
+            "text": "LRP Setting"
+        },
+        {
+            "id": "98caa648-4187-4776-a46c-1eb5f42c1f99",
+            "type": 1,
+            "text": "CENTRAL COST brand"
+        },
+        {
+            "id": "29db2898-5e10-430b-a903-49b765998ea4",
+            "type": 1,
+            "text": "PME Cost. - Central Cost"
+        },
+        {
+            "id": "97946127-50d6-4ee0-afcb-d2524ab5188b",
+            "type": 1,
+            "text": "Communication Exps - Central Cost"
+        },
+        {
+            "id": "c41a817d-7498-4142-ada2-1c300849cbe1",
+            "type": 1,
+            "text": " Format Cost  - CENTRAL COST"
+        },
+        {
+            "id": "bc4cc57d-9423-4a44-a513-9527c734b5ea",
+            "type": 1,
+            "text": "Common Cost - CENTRAL COST"
+        },
+        {
+            "id": "49467e38-8877-4f2d-9574-3826c85769f7",
+            "type": 1,
+            "text": " Central Cost Drivers - Actual Cost + Projected Cost"
+        },
+        {
+            "id": "4dff27b5-7ec7-4ffd-bd0c-94e805db0c76",
+            "type": 1,
+            "text": " Central Cost Drivers - Planned Cost"
+        },
+        {
+            "id": "b5d38691-0189-4110-90b1-2b642f640c7a",
+            "type": 1,
+            "text": " Central Cost Drivers - Planned Cost LRP"
+        },
+        {
+            "id": "77d773d6-7bf6-4680-8ad2-6cd754164e78",
+            "type": 1,
+            "text": "Locking CENTRAL COST"
+        },
+        {
+            "id": "a72421bc-ac18-4efd-912e-df5c1dd09763",
+            "type": 1,
+            "text": " Driver Staff Cost Workings - CENTRAL COST brand"
+        },
+        {
+            "id": "f5d51e8f-f929-440f-ac8a-ab95a0a5428f",
+            "type": 1,
+            "text": "Driver Common Cost - CENTRAL COST"
+        },
+        {
+            "id": "db134081-4e2b-4471-86c4-dd8363b789b4",
+            "type": 1,
+            "text": "Driver Central Cost Drivers - Actual Cost + Projected Cost"
+        },
+        {
+            "id": "f6612e99-089f-4144-8919-7232e918c0f6",
+            "type": 1,
+            "text": "Driver Central Cost Drivers - Planned Cost"
+        },
+        {
+            "id": "c8268f83-f272-4a0a-9ce9-8aef72414290",
+            "type": 1,
+            "text": "Driver Central Cost Drivers - Planned Cost LRP"
+        },
+        {
+            "id": "37f735ac-d16b-47b8-baa6-9e141e4c9dea",
+            "type": 1,
+            "text": "test"
+        },
+        {
+            "id": "1fcd7550-a3dc-472b-9c17-1d3306fd08f3",
+            "type": 1,
+            "text": "Allocation % Central cost"
+        },
+        {
+            "id": "fdda858d-5351-4940-93b2-692d7e9359ed",
+            "type": 1,
+            "text": "Central Cost Common"
+        },
+        {
+            "id": "8e3ae171-6345-43e9-8ae7-16bd907db303",
+            "type": 1,
+            "text": "Staff cost % Budget Revenue Central cost"
+        },
+        {
+            "id": "5b29e9c2-8a5e-4816-a3f1-c0b1c919dedc",
+            "type": 1,
+            "text": "6.8.4 Staff Cost - Planned HC"
+        },
+        {
+            "id": "004e0ad9-35b3-4018-9dc0-598ab1aab136",
+            "type": 1,
+            "text": "Planned Cost - Shrink Cost - Fixed % Input"
+        },
+        {
+            "id": "f307a46f-deb6-4f7c-848a-32d9f2b1de38",
+            "type": 1,
+            "text": "Planned Cost - Transpotation Cost - Fixed % Input"
+        },
+        {
+            "id": "0178b957-0cf9-4639-8cad-ad3380b1787c",
+            "type": 1,
+            "text": "6.8.2 Staff Cost - Projected - Avg Staff Cost"
+        },
+        {
+            "id": "6d6985f8-5e1c-4342-8486-46b1e8c04d6c",
+            "type": 1,
+            "text": "6.8.4 Staff Cost - Planned Avg Staff Cost"
+        },
+        {
+            "id": "39f76904-5fb2-44fa-a7f2-84ad5b40f502",
+            "type": 1,
+            "text": "6.8.4 Staff Cost - Incentive"
+        },
+        {
+            "id": "a343117d-fc92-466e-abfa-659b7140becb",
+            "type": 1,
+            "text": "6.8.4 Staff Cost - Uniform Cost"
+        },
+        {
+            "id": "d4cfddb8-c595-47b8-830c-b55478bc4eb4",
+            "type": 1,
+            "text": "6.8.5 Final Staff Cost"
+        },
+        {
+            "id": "4e32933c-7350-4f09-a673-b42a632b10c7",
+            "type": 1,
+            "text": "NSO Planning "
+        },
+        {
+            "id": "36e61952-dc47-4d81-8b93-d374ed93ab57",
+            "type": 1,
+            "text": "LRP - 1"
+        },
+        {
+            "id": "f806d98c-9f30-4ede-94cb-b0c385453f0b",
+            "type": 1,
+            "text": "6.1.5 Rent LRP"
+        },
+        {
+            "id": "4bd39eff-6565-4ab8-9649-d6c6d8a4d6db",
+            "type": 1,
+            "text": "6.2.5 Utilities LRP"
+        },
+        {
+            "id": "cc3f8e93-02ae-4e35-be82-896b48ca5f2a",
+            "type": 1,
+            "text": "6.3.5 Repair & Maintenance LRP"
+        },
+        {
+            "id": "3282c022-8f50-419e-8b9a-428eec584254",
+            "type": 1,
+            "text": "6.4.6 Housekeeping LRP"
+        },
+        {
+            "id": "df9b7ffa-1a2a-4189-a144-2b335c9514ba",
+            "type": 1,
+            "text": "6.5.8 Security LRP"
+        },
+        {
+            "id": "2a86baec-8ce9-4498-85d9-007f6dda6cbe",
+            "type": 1,
+            "text": "6.6.6 Communication LRP"
+        },
+        {
+            "id": "88c568c1-2551-4de5-a65e-935abde12a07",
+            "type": 1,
+            "text": "6.7.6 LIC LRP"
+        },
+        {
+            "id": "3299ac09-ef85-4dc6-af61-b4a1e97e3715",
+            "type": 1,
+            "text": "6.8.6 Staff Cost LRP"
+        },
+        {
+            "id": "d67be89a-3334-409b-b206-03ccf1d91a85",
+            "type": 1,
+            "text": "LRP- Devaluation Cost"
+        },
+        {
+            "id": "6da876d5-87c5-44c6-89c1-51048acd0d63",
+            "type": 1,
+            "text": "LRP - Shrink Cost (Dry)"
+        },
+        {
+            "id": "396ab09c-c251-4779-85ac-bdfd9a5d7855",
+            "type": 1,
+            "text": "LRP - Transportation(Dry)"
+        },
+        {
+            "id": "25578154-5b29-4322-8ba3-41cb7b348412",
+            "type": 1,
+            "text": "LRP  - Consumables & Packaging"
+        },
+        {
+            "id": "ba9f4a8b-f1aa-4d11-9b1f-9ca98a2b825b",
+            "type": 1,
+            "text": "LRP - Sales & Promotions"
+        },
+        {
+            "id": "7dfde55b-2dac-4798-8bea-8e03677fe821",
+            "type": 1,
+            "text": "LRP - Other Expenses"
+        },
+        {
+            "id": "0d6e901f-b2a3-458f-b3c3-4cfa5ea07292",
+            "type": 1,
+            "text": "LRP - Bank Charges"
+        },
+        {
+            "id": "bca964bc-ee0e-44e6-86c4-7274d52380d6",
+            "type": 1,
+            "text": "Upload SPSF - NSO Store"
+        },
+        {
+            "id": "99a974c6-997a-4e6a-ba64-5ce5af8b6615",
+            "type": 1,
+            "text": "Revenue 5 year LRP - NSO Store"
+        },
+        {
+            "id": "699aef45-15f9-4ff7-bd7e-b34971015bf2",
+            "type": 1,
+            "text": "Revenue Planning - Revenue (LY NSO)"
+        },
+        {
+            "id": "75711a45-0239-4df0-82af-7a69c6f1542c",
+            "type": 1,
+            "text": "Revenue Planning -LRP (LY NSO)"
+        },
+        {
+            "id": "ad2c65ba-8639-4f3b-a78b-2f5ceffd2286",
+            "type": 1,
+            "text": "Revenue Planning - Revenue (LY NSO) 2"
+        },
+        {
+            "id": "284a3431-415d-480b-857f-1b15c0cf0c5a",
+            "type": 1,
+            "text": "Revenue Planning -LRP (LY NSO) 2"
+        },
+        {
+            "id": "c2cf747d-9699-4a88-9e8c-b24f8db15d14",
+            "type": 1,
+            "text": "NSO Planning - Cost Planning"
+        },
+        {
+            "id": "a65978ec-d651-458b-a8fb-0e28453ad10b",
+            "type": 1,
+            "text": "NSO Planning - Cost Planning 2"
+        },
+        {
+            "id": "3cebf2ec-632e-43d4-8c3b-1e5ea89ee64e",
+            "type": 1,
+            "text": "Staff Cost - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "80036e64-5d4d-4636-ade4-ddef791070f9",
+            "type": 1,
+            "text": "Staff Cost LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "a94e081c-92dc-469b-8848-b3bd5b829747",
+            "type": 1,
+            "text": "Security LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "0a524a2f-0f7c-4112-9ea5-12d2cb9ae574",
+            "type": 1,
+            "text": "Security - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "da84e131-db7e-4546-b6f5-2d2db0e628f1",
+            "type": 1,
+            "text": "Rent - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "712d5e9e-9844-43b7-9156-4916fda69c56",
+            "type": 1,
+            "text": "Rent LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "ffe99245-ef94-45c2-a745-88d30984059d",
+            "type": 1,
+            "text": "Utilities LRP - Cost Planning (NSO Planning) "
+        },
+        {
+            "id": "4565edea-df01-4041-92ce-3c19f7a07f62",
+            "type": 1,
+            "text": "Utilities - Cost Planning (NSO Planning) "
+        },
+        {
+            "id": "1f009cc2-c8cb-466a-aa6b-4c848513a0b6",
+            "type": 1,
+            "text": "R&M - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "a715e430-add4-4ed0-9be5-e092edddb54e",
+            "type": 1,
+            "text": "R&M LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "feacc295-5dca-483b-b398-464ec6b7ba1b",
+            "type": 1,
+            "text": "HKPC LRP - Cost Planning (NSO Planning"
+        },
+        {
+            "id": "1580e98b-5d8e-4899-9bdd-67d7f1588d7a",
+            "type": 1,
+            "text": "HKPC - Cost Planning (NSO Planning"
+        },
+        {
+            "id": "b6762e17-09c0-4c43-91f7-3f748b3a41d9",
+            "type": 1,
+            "text": "Communication LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "d200aac4-aab8-4e2b-8d3b-dc58cff8f1c9",
+            "type": 1,
+            "text": "Communication - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "3c2c362f-7c16-4f8d-ae34-fe2575b46bb2",
+            "type": 1,
+            "text": "LFSD LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "80b292fe-83cd-4921-b89f-4fafa5ff33a5",
+            "type": 1,
+            "text": "LFSD - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "87320aeb-8d28-41b5-9499-29e2ac54f40b",
+            "type": 1,
+            "text": "Devaluation Cost - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "a42915cd-b0ed-4686-b5ba-f1290062eb62",
+            "type": 1,
+            "text": "Devaluation Cost LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "f3c5830e-274e-433b-87bb-0b7d3730927c",
+            "type": 1,
+            "text": "Shrink Cost LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "4ada4faa-854c-4b16-aba7-a8316b6869d3",
+            "type": 1,
+            "text": "Shrink Cost - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "b212b333-3a4f-4e6d-8faa-c40837e65e6b",
+            "type": 1,
+            "text": "Warehouse LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "50196618-a43c-460f-8004-73507cd7edd6",
+            "type": 1,
+            "text": "Warehouse - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "db920286-0369-4d2a-8e58-5c95c96b0fb2",
+            "type": 1,
+            "text": "Transportation LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "37f6b3d0-8bd6-450d-bbad-36f546588ee6",
+            "type": 1,
+            "text": "Transportation - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "f98d3610-bf47-4314-bfa7-09da995bd42e",
+            "type": 1,
+            "text": "Consumables & Packaging LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "af37aa9b-24c5-4d15-87fc-06745e275e36",
+            "type": 1,
+            "text": "Consumables & Packaging - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "51f63b3c-b36a-406a-a627-84c98cbb1860",
+            "type": 1,
+            "text": "Sales & promotion LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "9b020822-2825-4d13-9a9d-93e0b4b58217",
+            "type": 1,
+            "text": "Sales & promotion - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "63096583-85c8-4294-bde9-47a44e1daebc",
+            "type": 1,
+            "text": "Other Cost LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "f1b18995-1100-4ad2-836f-326107a55a9d",
+            "type": 1,
+            "text": "Other Cost - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "906ee4c5-7cc2-45d0-8bca-45d0d9369384",
+            "type": 1,
+            "text": "Bank Charges LRP - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "43d25479-e3a8-4171-ae8d-0f1c0188a184",
+            "type": 1,
+            "text": "Bank Charges - Cost Planning (NSO Planning)"
+        },
+        {
+            "id": "644cee5a-eada-4f53-9a51-84abb0adf76d",
+            "type": 1,
+            "text": "Rent - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "b60d1355-2537-4560-9e12-728c07f5035f",
+            "type": 1,
+            "text": "Rent LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "a653ec2f-cd48-4543-bb96-96c28db60ea9",
+            "type": 1,
+            "text": "Utilities - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "7f5bc609-4930-437a-bb19-51a131d4f5dc",
+            "type": 1,
+            "text": "Utilities LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "81b1ab6f-200e-477d-a342-4958a9b139c0",
+            "type": 1,
+            "text": "R&M - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "fa6324b4-0674-4b18-9c4c-caae8766537d",
+            "type": 1,
+            "text": "R&M LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "42a5fe72-bbe3-4cd7-a925-b61dbf0cd933",
+            "type": 1,
+            "text": "HKPC - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "230c7fe1-6f30-481f-9f72-9fb52674cdce",
+            "type": 1,
+            "text": "HKPC LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "46718c94-da2a-489e-b6ea-ce19e3f3d867",
+            "type": 1,
+            "text": "Security - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "13c2d8e4-fe3e-4cce-8166-b7c7e66536e0",
+            "type": 1,
+            "text": "Security LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "3cca6f75-b2e2-4de5-ac86-25303e51c809",
+            "type": 1,
+            "text": "Communication - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "b8af7083-7bd4-4177-b9f1-4fad6c0f6692",
+            "type": 1,
+            "text": "Communication LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "cc901d4d-298f-4712-aa79-a97c0e929ec6",
+            "type": 1,
+            "text": "LFSD - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "b52bdf24-9e73-432a-b9a9-51c2d9f6ce76",
+            "type": 1,
+            "text": "LFSD LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "5fb91ac8-626c-4823-a540-d32f8b05f486",
+            "type": 1,
+            "text": "Staff Cost - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "9986c64d-be53-40eb-b1f4-10701823046f",
+            "type": 1,
+            "text": "Staff Cost LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "dcdce96e-8f30-43c8-a596-f67c730bfd44",
+            "type": 1,
+            "text": "Devaluation Cost - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "01a09104-dbb6-464f-b7c2-f4460dc84bdd",
+            "type": 1,
+            "text": "Devaluation Cost LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "b1636968-3ec1-4904-b4b3-a9488708adb4",
+            "type": 1,
+            "text": "Shrink Cost LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "69c03c50-cc79-41fb-8f8d-43ed0802da1d",
+            "type": 1,
+            "text": "Shrink Cost - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "b62a4779-0120-4e33-ac56-f3db05414a03",
+            "type": 1,
+            "text": "Warehouse LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "d316da4a-3795-4434-8d89-e77b166c5b07",
+            "type": 1,
+            "text": "Warehouse - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "e629a17d-6aa5-4d7c-af73-fedba188f1c7",
+            "type": 1,
+            "text": "Transportation LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "d1c1d65e-809c-49f8-90d2-5674fb10f087",
+            "type": 1,
+            "text": "Transportation - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "e808b867-ff76-421e-a7d8-7f6a1881843a",
+            "type": 1,
+            "text": "Consumables & Packaging LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "0d8c18eb-e796-4c85-b3a5-62f94ffca97b",
+            "type": 1,
+            "text": "Consumables & Packaging - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "75e88f63-8bb3-4a9f-bb0e-e74e0ad883f3",
+            "type": 1,
+            "text": "Sales & promotion LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "5f26aa1e-ffd2-4ee9-9128-2187798a5b0a",
+            "type": 1,
+            "text": "Sales & promotion - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "c4b1e6ed-6f69-4b38-a537-e4279a9303f1",
+            "type": 1,
+            "text": "Other Cost LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "c7762554-3b83-4d9b-958a-07c44fdf2340",
+            "type": 1,
+            "text": "Other Cost - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "92d8d710-fdd6-40d7-9a46-4cfe108d6196",
+            "type": 1,
+            "text": "Bank Charges - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "1f2b3d0f-967b-4644-8bbb-a4dae79276a8",
+            "type": 1,
+            "text": "Bank Charges LRP - Cost Planning (NSO Planning) 2"
+        },
+        {
+            "id": "7d72ae57-7fc1-4743-b1ff-6cdfe05d28d7",
+            "type": 1,
+            "text": "Revenue Planning - Revenue (LY NSO) 3"
+        },
+        {
+            "id": "2e3f5ba0-495a-4f25-ae71-ea1d4b5e1f7c",
+            "type": 1,
+            "text": "Revenue Planning -LRP (LY NSO) 3"
+        },
+        {
+            "id": "0b58c6c7-827e-4785-bce9-326524b32c8d",
+            "type": 1,
+            "text": "Rent - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "d6de8568-0e74-4aa6-8de9-d096b4102790",
+            "type": 1,
+            "text": "Rent LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "d60e3b4a-56ce-4081-ad55-7d26d4db3694",
+            "type": 1,
+            "text": "Utilities - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "a6d48242-1cc1-41cc-b48d-2171155909a5",
+            "type": 1,
+            "text": "Utilities LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "9f0fb4db-eee6-489b-b2b4-461f4d86d54a",
+            "type": 1,
+            "text": "R&M - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "d31ca9bd-27cc-479a-9b04-04a9370f06b7",
+            "type": 1,
+            "text": "R&M LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "55015e51-068e-4774-a506-b01e33b96f4d",
+            "type": 1,
+            "text": "HKPC - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "fd159a72-b72d-4688-9826-d67d9e770857",
+            "type": 1,
+            "text": "HKPC LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "0f436706-7c42-483f-921c-e3bc0f767173",
+            "type": 1,
+            "text": "Security - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "0db27b9e-f0a8-43e8-ab65-9418e38c9e51",
+            "type": 1,
+            "text": "Security LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "709be64b-a878-4601-aa26-f990e0e068a1",
+            "type": 1,
+            "text": "Communication - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "e27d98cb-0456-4d63-b3c3-ec970e65fb8b",
+            "type": 1,
+            "text": "Communication LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "ab3e2d44-b027-47fa-932b-3ac3b9106fd3",
+            "type": 1,
+            "text": "LFSD - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "c3498f97-c790-499f-b3b1-c23c86814bea",
+            "type": 1,
+            "text": "LFSD LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "92c383d5-9de6-4c74-a507-5674e3bde1ef",
+            "type": 1,
+            "text": "Staff Cost - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "cd181dfa-57e6-45b9-9c03-62777ac6e978",
+            "type": 1,
+            "text": "Staff Cost LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "97124e7a-69ac-4949-aa12-ca620399380b",
+            "type": 1,
+            "text": "Devaluation Cost - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "b09a13b8-5c04-4026-96d2-79a3e43985ba",
+            "type": 1,
+            "text": "Devaluation Cost LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "533550ad-a1df-472d-a728-0f5bf81ce90a",
+            "type": 1,
+            "text": "Shrink Cost LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "37fe0deb-e8bc-45ec-9a31-c5d5963cf9ce",
+            "type": 1,
+            "text": "Shrink Cost - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "206b4c82-d61e-4c46-9893-55587fb431fc",
+            "type": 1,
+            "text": "Warehouse LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "02d19c1e-c406-48f8-a107-951c10ca55ce",
+            "type": 1,
+            "text": "Warehouse - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "1a367ede-2f26-4d69-90ac-fda127b5a028",
+            "type": 1,
+            "text": "Transportation LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "3a811bfc-1861-4a60-8a6e-1ae64b4944b7",
+            "type": 1,
+            "text": "Transportation - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "1ecf8e81-8d8b-4e35-807e-ac002540629f",
+            "type": 1,
+            "text": "Consumables & Packaging LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "5ec409df-b7f6-4981-8c38-dd9295559954",
+            "type": 1,
+            "text": "Consumables & Packaging - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "ab405a9b-5067-4721-bc90-24821d040aff",
+            "type": 1,
+            "text": "Sales & promotion LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "8f96200f-3353-4ddd-b823-c3fe94257445",
+            "type": 1,
+            "text": "Sales & promotion - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "996644f4-6228-4c07-bc99-cef158bd2be6",
+            "type": 1,
+            "text": "Other Cost LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "032cee04-7a40-4cc7-82b2-b21712fd7704",
+            "type": 1,
+            "text": "Other Cost - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "af718fac-1084-423c-bbdd-9d838052f5b5",
+            "type": 1,
+            "text": "Bank Charges - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "55aa5e58-e0d8-4c8c-bd49-59e8ed26b0da",
+            "type": 1,
+            "text": "Bank Charges LRP - Cost Planning (NSO Planning) 3"
+        },
+        {
+            "id": "150ffa14-d3cf-4349-bd6b-bd3a1fa801f2",
+            "type": 1,
+            "text": "NSO Planning - Cost Planning 3"
+        },
+        {
+            "id": "697326bc-1981-4aef-ad60-b6527495e153",
+            "type": 1,
+            "text": "LRP - Warehouse(Dry)"
+        },
+        {
+            "id": "c7562b7b-15d4-4e73-ba61-45e931f8bc09",
+            "type": 1,
+            "text": "NSO Store Upload"
+        },
+        {
+            "id": "e94178a2-64e9-4a07-a848-3eda5c567e9b",
+            "type": 1,
+            "text": "Rate of Interest - Finance Cost"
+        },
+        {
+            "id": "9cfa0b41-3abb-4e88-a62a-ae602aa05fb5",
+            "type": 1,
+            "text": "Utilities - Cost Planning (NSO Planning) 3 Cost"
+        },
+        {
+            "id": "8e13f636-3c54-458c-b32c-c5077e598438",
+            "type": 1,
+            "text": "R&M - Cost Planning (NSO Planning) 3 Cost"
+        },
+        {
+            "id": "8bfd462a-ef53-459f-85ec-cefb36cd42f6",
+            "type": 1,
+            "text": "R&M - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "e653aa1a-da61-4475-9df1-cc276f6a7866",
+            "type": 1,
+            "text": "HKPC - Cost Planning (NSO Planning) 3 Cost"
+        },
+        {
+            "id": "90a9217d-32a0-4a30-b4c9-d48d8749d34d",
+            "type": 1,
+            "text": "Security - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "0c75f5fc-14e7-4d97-8822-ae1c90011987",
+            "type": 1,
+            "text": "Communication - Cost Planning (NSO Planning) 3 Cost"
+        },
+        {
+            "id": "82c26c33-945a-429a-912e-6685ce6fdf9a",
+            "type": 1,
+            "text": "Communication - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "c6873fac-5f0d-4405-b40a-3fb15c6debb2",
+            "type": 1,
+            "text": "LFSD - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "7677a736-5ebe-4368-a5b6-db556ed96f86",
+            "type": 1,
+            "text": "Staff Cost - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "4edc3703-b68c-426a-9671-e7f071e4f92a",
+            "type": 1,
+            "text": "Rent - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "b926a88a-8db5-4c14-ae03-8a8686150648",
+            "type": 1,
+            "text": "Bank Charges - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "e646a497-2c3a-45cb-957a-d1a08ad1d7b9",
+            "type": 1,
+            "text": "Other Cost - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "2afb5459-cd15-4501-bd24-daef2a7d4970",
+            "type": 1,
+            "text": "Sales & promotion - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "a3e23ac1-5cfc-44e3-a906-efd90b3973cf",
+            "type": 1,
+            "text": "Consumables & Packaging - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "a678f53d-0f47-455f-9017-e617e21862ad",
+            "type": 1,
+            "text": "Transportation - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "24759e14-ed8f-458c-a897-dbfaf32e95aa",
+            "type": 1,
+            "text": "Warehouse - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "d55452a9-13a4-4104-8269-026bd3eb4ce6",
+            "type": 1,
+            "text": "Shrink Cost - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "cea6a59c-fdad-4825-88ef-78b5b1e8e266",
+            "type": 1,
+            "text": "Devaluation Cost - Cost Planning (NSO Planning) 3 cost"
+        },
+        {
+            "id": "44fb5c24-a940-4a08-a7e5-4974aa80d205",
+            "type": 1,
+            "text": "Central Cost Common - BKP"
+        },
+        {
+            "id": "07b8d96d-8283-4323-9f60-609dbc59d3c5",
+            "type": 1,
+            "text": "Format - CENTRAL COST"
+        },
+        {
+            "id": "8b85c788-53bb-4dcb-92f2-167754e1f45c",
+            "type": 1,
+            "text": "Allocated Common Cost - CENTRAL COST"
+        },
+        {
+            "id": "7de6796f-2d67-4464-881b-a0b63ea529eb",
+            "type": 1,
+            "text": "UnAllocated Common Cost - CENTRAL COST"
+        },
+        {
+            "id": "5afb39d1-0de6-438d-991f-532a7e78532c",
+            "type": 1,
+            "text": "PNL - Sorting"
+        },
+        {
+            "id": "43192afb-803d-4358-ab08-57c02931e9ef",
+            "type": 1,
+            "text": "AOP Finance Cost "
+        },
+        {
+            "id": "e4219a59-bcc4-46bb-ad82-7072fcff224d",
+            "type": 1,
+            "text": "Working Capital - Merchandise Vendors"
+        },
+        {
+            "id": "12bf0423-5969-47ce-ae95-cbc98eec190e",
+            "type": 1,
+            "text": "Bank Charges."
+        },
+        {
+            "id": "3984b1a3-d26d-4e46-875f-ac257cd4be23",
+            "type": 1,
+            "text": "EDC Machine Charges"
+        },
+        {
+            "id": "63cc82f8-ca2f-4fd6-8ef0-1f7ced50b823",
+            "type": 1,
+            "text": "No. of EDC Machine"
+        },
+        {
+            "id": "c0b43643-9957-497c-91d4-57db246f59de",
+            "type": 1,
+            "text": "Upload Format - CENTRAL COST"
+        },
+        {
+            "id": "c1dcdf79-bef8-4b14-a0fa-760eacbfdb20",
+            "type": 1,
+            "text": "Test - SG"
+        },
+        {
+            "id": "8a768507-11c5-4814-b93f-ea56d38046bd",
+            "type": 1,
+            "text": "Channel PF&A Pending list"
+        },
+        {
+            "id": "d78b5b91-5d69-46b2-b065-8d62146ba30b",
+            "type": 1,
+            "text": "Channel PF&A - Approved"
+        },
+        {
+            "id": "1a8ed8c0-cd6a-47a2-a8cd-3eb51d32b079",
+            "type": 1,
+            "text": "Format Pending list"
+        },
+        {
+            "id": "b030cc02-05e7-4a5a-9216-62ffbe9d37bf",
+            "type": 1,
+            "text": "Format Head Pending list"
+        },
+        {
+            "id": "98e70807-281a-4def-8ea1-9421d5a62111",
+            "type": 1,
+            "text": "CEO-CFO Office Pending list"
+        },
+        {
+            "id": "b9b25d7e-6638-4f95-b3cd-f5381a00882b",
+            "type": 1,
+            "text": "RRVLCLT Pending list"
+        },
+        {
+            "id": "4d15ae86-2ee7-4360-9549-b921c1d59bc0",
+            "type": 1,
+            "text": "Format Approved list"
+        },
+        {
+            "id": "87272ce7-b707-4e8b-a116-fadbed038fa3",
+            "type": 1,
+            "text": "Format Head - Approved"
+        },
+        {
+            "id": "756a855f-bb43-4dca-9184-40d1652caaed",
+            "type": 1,
+            "text": "CEO-CFO - Approved"
+        },
+        {
+            "id": "1da41128-85d9-447d-8f45-2ad47f99dc1a",
+            "type": 1,
+            "text": "RRVLCLT - Approved"
+        },
+        {
+            "id": "90df36bc-f95b-4cad-bfc0-46102320b5d9",
+            "type": 1,
+            "text": "Approval P&L"
+        },
+        {
+            "id": "0d03b67f-68c8-432f-aa05-071ca7a26c74",
+            "type": 1,
+            "text": "Approval PL Metric"
+        },
+        {
+            "id": "2cd38f33-39f0-4940-9c2f-9c9ed0d15f20",
+            "type": 1,
+            "text": "Lux & BTL (Men)"
+        },
+        {
+            "id": "1c25e104-3d49-4ac8-a6d1-b4325ec94f6d",
+            "type": 1,
+            "text": "Business CEO-CFO Pending list"
+        },
+        {
+            "id": "37f211c6-8dd0-469a-8e0e-2c3f87767d72",
+            "type": 1,
+            "text": "Business CEO-CFO - Approved"
+        },
+        {
+            "id": "d3d5f50a-1789-4463-91b6-3847ee62618a",
+            "type": 1,
+            "text": "Test Workflow"
+        },
+        {
+            "id": "71d670fa-5fc7-4340-9f3c-a640b67eb361",
+            "type": 1,
+            "text": "Lux & BTL (women)"
+        },
+        {
+            "id": "ad624faf-ee34-4d87-b926-e3a36d325a38",
+            "type": 1,
+            "text": "Premium (Men)"
+        },
+        {
+            "id": "6b5f5471-a50a-4b59-8f43-b5b71af8bb8e",
+            "type": 1,
+            "text": "Footwear"
+        },
+        {
+            "id": "57fc1ed8-183a-4032-9378-52cdc28d7081",
+            "type": 1,
+            "text": "Children's Wear"
+        },
+        {
+            "id": "f568b13c-87c6-4102-92f7-619fd38fd9df",
+            "type": 1,
+            "text": " Home"
+        },
+        {
+            "id": "423e4503-b733-4d7b-a313-5ac59493fdab",
+            "type": 1,
+            "text": "Eyewear"
+        },
+        {
+            "id": "3e7060ff-e7bb-4316-b2e2-ece046e22341",
+            "type": 1,
+            "text": "F&B"
+        },
+        {
+            "id": "bff1c75c-1ebf-49b5-8cff-66ba4f1c11d8",
+            "type": 1,
+            "text": "Toys India"
+        },
+        {
+            "id": "512d0776-2a56-4de2-93f2-4b7add36b949",
+            "type": 1,
+            "text": "Toys UK"
+        },
+        {
+            "id": "4727fd17-d691-406c-8231-7d01e7025a84",
+            "type": 1,
+            "text": "Licensing"
+        },
+        {
+            "id": "9133295e-cffe-45ca-870b-532660991d6e",
+            "type": 1,
+            "text": "Others"
+        },
+        {
+            "id": "3d317e2c-1960-448e-aec8-e256ba5207bf",
+            "type": 1,
+            "text": "Sub Home"
+        },
+        {
+            "id": "eb4dbde3-b971-4b7f-abd1-e8eefa8cbed1",
+            "type": 1,
+            "text": "Load Actuals - Brands"
+        },
+        {
+            "id": "37f086d1-e6a0-4dc2-a580-4e889a5c0e14",
+            "type": 1,
+            "text": "Load Actuals ^-^"
+        },
+        {
+            "id": "99e7ade0-e999-4278-9ed6-38ba638e6d20",
+            "type": 1,
+            "text": "LFL - Depreciation - Actuals"
+        },
+        {
+            "id": "25bfd3e8-abe6-451a-a92f-2a63515626aa",
+            "type": 1,
+            "text": "ACT Cost - Devaluation Cost (Wet) - Actuals"
+        },
+        {
+            "id": "9027c4da-0452-4c7e-8a18-8449dc1d4417",
+            "type": 1,
+            "text": "AOP Profit and Loss - format"
+        },
+        {
+            "id": "e4ff69b8-8360-40b1-8f74-ebafa728dd27",
+            "type": 1,
+            "text": "Inventory (WC)"
+        },
+        {
+            "id": "47391d88-19d4-48d1-a1d0-492e3323fd9c",
+            "type": 1,
+            "text": "Creditor (WC)"
+        },
+        {
+            "id": "ed40eefb-d711-48c4-ac9b-138ade75855e",
+            "type": 1,
+            "text": "Debtor (WC)"
+        },
+        {
+            "id": "28183c20-9730-4536-a69d-cb0d11b2e624",
+            "type": 1,
+            "text": "AOP - Partner Share-backup"
+        },
+        {
+            "id": "6fcf4ffa-6f9d-457f-873c-385458121a6d",
+            "type": 1,
+            "text": "LFL - Depreciation 1"
+        },
+        {
+            "id": "2682ac38-577c-41f3-a595-eabdf4df62e8",
+            "type": 1,
+            "text": "AOP - Partner Share - bkp"
+        },
+        {
+            "id": "80c158c7-fb53-408b-978e-ba72a4c9c511",
+            "type": 1,
+            "text": "Test Mapping Cube 1283"
+        },
+        {
+            "id": "116c7da2-81d0-4715-b4ac-a20c2ef02f00",
+            "type": 1,
+            "text": "New Assets Value"
+        },
+        {
+            "id": "5d9801e5-6d37-406b-9295-6472fe813a5b",
+            "type": 1,
+            "text": "AOP Profit and Loss format"
+        },
+        {
+            "id": "3e9a7b1d-c995-439e-9110-9a534f8f4ad5",
+            "type": 1,
+            "text": "AOP Profit and Loss - format LRP"
+        },
+        {
+            "id": "f2d8c766-03ad-45a5-8dce-e863a8e7d63d",
+            "type": 1,
+            "text": "2531 Mapping"
+        },
+        {
+            "id": "1060ec78-0e14-4ee6-9458-4f57dbf8b1c5",
+            "type": 1,
+            "text": "6.8.4 Staff Cost Plan - Assumptions - (Metro)"
+        },
+        {
+            "id": "856fa378-a04c-4534-a2f1-6896958a3c72",
+            "type": 1,
+            "text": "6.8.2 Staff Cost Projection - Incentive"
+        },
+        {
+            "id": "a80a05a1-a965-4df9-8df0-cbcd874c1d16",
+            "type": 1,
+            "text": "6.8.2 Staff Cost Projection - Uniform"
+        },
+        {
+            "id": "e615d948-8da6-4f9c-b529-3a79965d13b8",
+            "type": 1,
+            "text": "6.8.2 Staff Cost Projection - PLI"
+        },
+        {
+            "id": "fe226a2c-badb-4c17-bbc0-4641663cf6c4",
+            "type": 1,
+            "text": "AOP GST Working new "
+        },
+        {
+            "id": "155b1dc9-acec-40f1-b729-6d355875b7be",
+            "type": 1,
+            "text": "AOP GST Working Without ITC"
+        },
+        {
+            "id": "e0b25c33-52d7-4908-952d-309c17f89c62",
+            "type": 1,
+            "text": "NEW NSO Planning"
+        },
+        {
+            "id": "7a533f2a-08dd-4480-80c0-910c40d32cb4",
+            "type": 1,
+            "text": "AOP- Depreciation BOQ"
+        },
+        {
+            "id": "d551e6fa-637f-4ebc-9e4d-5f84a93cb109",
+            "type": 1,
+            "text": "AOP- Depreciation"
+        }
+    ]
+}
