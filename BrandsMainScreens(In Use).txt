@@ -1,0 +1,289 @@
+Home
+Revenue Planning
+Calendarization - Country
+Calendarization - Channel
+Actual
+Normalization Driver Setup
+Normalization
+Revenue post Calendarization
+Buddy Mapping (Existing)
+Store Renovation
+Plan (Store Level)
+Plan (Store Level) - Projected
+Plan (Store Month)
+Plan (Store Month) - Projected
+Plan (Category mix)
+Plan (Category mix) - Projected
+AOP - Tax - Actual Tax %
+AOP - GST % - Month Level
+AOP - Partner Share
+Gross Sales
+AOP - Gross Sales - 2
+AOP - MRP
+AOP - COGS
+AOP - GP 1
+LRP - 1
+ACT Cost % - S&P - Other Income
+ACT + Projection - S&P - Other Income
+Planning - S&P - Other Income
+Output - S&P - Other Income
+Output - S&P - Other Income - LRP
+Cost Planning
+6.1.1 Settings
+6.1.2 Actual Cost
+6.1.3. Projected
+6.1.3 Planning Cost
+6.1.4 Adjustments
+6.1.5 Final Cost
+6.1.5 Rent LRP
+6.2.1 Settings
+6.2.2 Actual Cost
+6.2.3 Projected Cost
+6.2.4 Planning Cost
+6.2.5 Final Cost
+6.2.5 Utilities LRP
+6.3.1 Settings
+6.3.2 Actual Cost
+6.3.3 Projected/Planning Cost
+6.3.4 Planning Cost
+6.3.5 Final Cost
+6.3.5 Repair & Maintenance LRP
+6.4.1 Settings
+6.4.2 Actual Cost
+6.4.3 Projected Cost
+6.4.4 Planning Cost
+6.4.4.1 ADJ Planning Cost
+6.4.5 Final Cost
+6.4.6 Housekeeping LRP
+6.5.1 Settings
+6.5.1 Design Principal
+6.5.1 Wage Rates
+6.5.2 Actual Cost
+6.5.3 Projected Cost
+6.5.4 Planning Cost
+6.5.5 Final Cost
+6.5.8 Security LRP
+6.6.1 Settings
+6.6.2 Actual Cost
+6.6.3 Projected Cost
+6.6.4 Planning Cost - scenario 1
+6.6.5 Final Cost
+6.6.6 Communication LRP
+6.7.1 Settings
+6.7.2 Actual Cost
+6.7.3 Projected Cost
+6.7.4 Planning Cost
+6.7.5 Final Cost
+6.7.6 LIC LRP
+6.8.1 Staff Cost Actual
+6.8.4 Staff Cost Plan - Assumptions
+6.8.2 Staff Cost Projection
+6.8.2 Staff Cost - Projected - Avg Staff Cost
+6.8.3 Staff Cost Projected
+6.8.2 Staff Cost Projection - Incentive
+6.8.2 Staff Cost Projection - Uniform
+6.8.2 Staff Cost Projection - PLI
+6.8.4 Staff Cost - Planned HC
+6.8.5 Staff Cost
+6.8.6 Staff Cost LRP
+Planned Cost - Scrap Cost
+ACT Cost - Devaluation Cost (Wet)
+Inputs - Devaluation Cost
+ACT Cost - Devaluation Cost (Wet) - Actuals
+Projected Cost - Devaluation Cost
+Planned Cost- Devaluation Cost
+LRP- Devaluation Cost
+ACT Cost - Shrink Cost (Dry)
+Projected Cost - Shrink Cost (Dry)
+Planned Cost - Shrink Cost - Fixed % Input
+Planned Cost - Shrink Cost (Dry)
+Final Cost - Shrink Cost (Dry)
+LRP - Shrink Cost (Dry)
+ACT Cost - Warehouse(Dry)
+Projected Cost - Warehouse(Dry)
+Planned Cost - Warehouse Cost - Fixed % Input
+Planned Cost - Warehouse(Dry)
+Final Cost - Warehouse(Dry)
+LRP - Warehouse(Dry)
+ACT Cost - Transportation(Dry)
+Projected Cost - Transportation(Dry)
+Planned Cost - Transpotation Cost - Fixed % Input
+Planned Cost - Transportation(Dry)
+Final Cost - Transportation(Dry)
+LRP - Transportation(Dry)
+ACT Cost - Consumables & Packaging
+Projected Cost - Consumables & Packaging
+Planned Cost - Consumables & Packaging
+Final Cost - Consumables & Packaging
+LRP - Consumables & Packaging
+ACT Cost - Sales & Promotions
+Projected Cost - Sales & Promotions
+Planned Cost - Sales & promotions
+Final Cost - Sales & Promotions
+LRP - Sales & Promotions
+ACT Cost - Other Expenses
+Projected Cost - Other Expenses
+Planned Cost - Other Expenses
+Final Cost - Other Expenses
+LRP - Other Expenses
+ACT Cost - Bank Charges
+Settings/Assumptions - Bank Charges
+EDC Machine Charges
+Bank Charges.
+No. of EDC Machine
+Projected Cost - Bank Charges
+Planned Cost - Bank Charges
+Final Cost - Bank Charges
+LRP - Bank Charges
+NSO Planning
+NSO Planning - Cost Planning
+NSO Planning - Cost Planning 2
+Staff Cost - Cost Planning (NSO Planning)
+Staff Cost LRP - Cost Planning (NSO Planning)
+Security LRP - Cost Planning (NSO Planning)
+Security - Cost Planning (NSO Planning)
+Rent - Cost Planning (NSO Planning)
+Rent LRP - Cost Planning (NSO Planning)
+Utilities LRP - Cost Planning (NSO Planning)
+Utilities - Cost Planning (NSO Planning)
+R&M - Cost Planning (NSO Planning)
+R&M LRP - Cost Planning (NSO Planning)
+HKPC LRP - Cost Planning (NSO Planning
+HKPC - Cost Planning (NSO Planning
+Communication LRP - Cost Planning (NSO Planning)
+Communication - Cost Planning (NSO Planning)
+LFSD LRP - Cost Planning (NSO Planning)
+LFSD - Cost Planning (NSO Planning)
+Devaluation Cost - Cost Planning (NSO Planning)
+Devaluation Cost LRP - Cost Planning (NSO Planning)
+Shrink Cost LRP - Cost Planning (NSO Planning)
+Shrink Cost - Cost Planning (NSO Planning)
+Warehouse LRP - Cost Planning (NSO Planning)
+Warehouse - Cost Planning (NSO Planning)
+Transportation LRP - Cost Planning (NSO Planning)
+Transportation - Cost Planning (NSO Planning)
+Consumables & Packaging LRP - Cost Planni
+Consumables & Packaging - Cost Planning (NSO Planning)
+Sales & promotion LRP - Cost Planning (NSO Planning)
+Sales & promotion - Cost Planning (NSO Planning)
+Other Cost LRP - Cost Planning (NSO Planning)
+Other Cost - Cost Planning (NSO Planning)
+Bank Charges LRP - Cost Planning (NSO Planning)
+Bank Charges - Cost Planning (NSO Planning)
+Rent - Cost Planning (NSO Planning) 2
+Rent LRP - Cost Planning (NSO Planning) 2
+Utilities - Cost Planning (NSO Planning) 2
+Utilities LRP - Cost Planning (NSO Planning) 2
+R&M - Cost Planning (NSO Planning) 2
+R&M LRP - Cost Planning (NSO Planning) 2
+HKPC - Cost Planning (NSO Planning) 2
+HKPC LRP - Cost Planning (NSO Planning) 2
+Security - Cost Planning (NSO Planning) 2
+Security LRP - Cost Planning (NSO Planning) 2
+Communication - Cost Planning (NSO Planning) 2
+Communication LRP - Cost Planning (NSO Planning) 2
+LFSD - Cost Planning (NSO Planning) 2
+LFSD LRP - Cost Planning (NSO Planning) 2
+Staff Cost - Cost Planning (NSO Planning) 2
+Staff Cost LRP - Cost Planning (NSO Planning) 2
+Devaluation Cost - Cost Planning (NSO Planning) 2
+Devaluation Cost LRP - Cost Planning (NSO Planning) 2
+Shrink Cost LRP - Cost Planning (NSO Planning) 2
+Shrink Cost - Cost Planning (NSO Planning) 2
+Warehouse LRP - Cost Planning (NSO Planning) 2
+Warehouse - Cost Planning (NSO Planning) 2
+Transportation LRP - Cost Planning (NSO Planning) 2
+Transportation - Cost Planning (NSO Planning) 2
+Consumables & Packaging LRP - Cost Planning (NSO Planning) 2
+Consumables & Packaging - Cost Planning (NSO Planning) 2
+Sales & promotion LRP - Cost Planning (NSO Planning) 2
+Sales & promotion - Cost Planning (NSO Planning) 2
+Other Cost LRP - Cost Planning (NSO Planning) 2
+Other Cost - Cost Planning (NSO Planning) 2
+Bank Charges - Cost Planning (NSO Planning) 2
+Bank Charges LRP - Cost Planning (NSO Planning) 2
+Rent - Cost Planning (NSO Planning) 3
+Rent LRP - Cost Planning (NSO Planning) 3
+Utilities - Cost Planning (NSO Planning) 3
+Utilities LRP - Cost Planning (NSO Planning) 3
+R&M - Cost Planning (NSO Planning) 3
+R&M LRP - Cost Planning (NSO Planning) 3
+HKPC - Cost Planning (NSO Planning) 3
+HKPC LRP - Cost Planning (NSO Planning) 3
+Security - Cost Planning (NSO Planning) 3
+Security LRP - Cost Planning (NSO Planning) 3
+Communication - Cost Planning (NSO Planning) 3
+Communication LRP - Cost Planning (NSO Planning) 3
+LFSD - Cost Planning (NSO Planning) 3
+LFSD LRP - Cost Planning (NSO Planning) 3
+Staff Cost - Cost Planning (NSO Planning) 3
+Staff Cost LRP - Cost Planning (NSO Planning) 3
+Devaluation Cost - Cost Planning (NSO Planning) 3
+Devaluation Cost LRP - Cost Planning (NSO Planning) 3
+Shrink Cost LRP - Cost Planning (NSO Planning) 3
+Shrink Cost - Cost Planning (NSO Planning) 3
+Warehouse LRP - Cost Planning (NSO Planning) 3
+Warehouse - Cost Planning (NSO Planning) 3
+Transportation LRP - Cost Planning (NSO Planning) 3
+Transportation - Cost Planning (NSO Planning) 3
+Consumables & Packaging LRP - Cost Planning (NSO Planning) 3
+Consumables & Packaging - Cost Planning (NSO Planning) 3
+Sales & promotion LRP - Cost Planning (NSO Planning) 3
+Sales & promotion - Cost Planning (NSO Planning) 3
+Other Cost LRP - Cost Planning (NSO Planning) 3
+Other Cost - Cost Planning (NSO Planning) 3
+Bank Charges - Cost Planning (NSO Planning) 3
+Bank Charges LRP - Cost Planning (NSO Planning) 3
+NSO Planning - Cost Planning 3
+Utilities - Cost Planning (NSO Planning) 3 Cost
+R&M - Cost Planning (NSO Planning) 3 Cost
+R&M - Cost Planning (NSO Planning) 3 cost
+HKPC - Cost Planning (NSO Planning) 3 Cost
+Security - Cost Planning (NSO Planning) 3 cost
+Communication - Cost Planning (NSO Planning) 3 Cost
+Communication - Cost Planning (NSO Planning) 3 cost
+LFSD - Cost Planning (NSO Planning) 3 cost
+Staff Cost - Cost Planning (NSO Planning) 3 cost
+Rent - Cost Planning (NSO Planning) 3 cost
+Bank Charges - Cost Planning (NSO Planning) 3 cost
+Other Cost - Cost Planning (NSO Planning) 3 cost
+Sales & promotion - Cost Planning (NSO Planning) 3 cost
+Consumables & Packaging - Cost Planning (NSO Planning) 3 cost
+Transportation - Cost Planning (NSO Planning) 3 cost
+Warehouse - Cost Planning (NSO Planning) 3 cost
+Shrink Cost - Cost Planning (NSO Planning) 3 cost
+Devaluation Cost - Cost Planning (NSO Planning) 3 cost
+Format - CENTRAL COST
+Allocated Common Cost - CENTRAL COST
+UnAllocated Common Cost - CENTRAL COST
+Upload Format - CENTRAL COST
+Actuals - CENTRAL COST brand
+LRP Setting
+Format Cost - CENTRAL COST
+Driver Central Cost Drivers - Actual Cost + Projected Cost
+Driver Central Cost Drivers - Planned Cost
+Driver Central Cost Drivers - Planned Cost LRP
+Central Cost Drivers - Actual Cost + Projected Cost
+Central Cost Drivers - Planned Cost
+Central Cost Drivers - Planned Cost LRP
+Communication Exps - Central Cost
+PME Cost. - Central Cost
+Allocation % Central cost
+Staff cost % Budget Revenue Central cost
+CENTRAL COST brand
+AOP Profit and Loss
+Balancesheet
+Store Capex Working (BS)
+Warehouse Capex Working (BS) |
+New Assets Value
+AOP Cashflow
+Final Working Capital
+Actual Working Captial
+Inventory (WC)
+Creditor (WC)
+Debtor (WC)
+AOP Finance Cost
+AOP- Depreciation BOQ
+AOP- Depreciation
+AOP GST Working
+AOP GST Working Without ITC
